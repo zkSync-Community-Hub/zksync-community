@@ -4,8 +4,8 @@
 
 ## Connect with the Community
 
-* [🔗 Official Links](connect-with-the-community/official-links.md)
-* [🆘 Support](connect-with-the-community/support.md)
+* [🔗 Official Links](connect-with-community/official-links.md)
+* [🆘 Support](connect-with-community/support.md)
 
 ## Frequently Asked Questions
 
@@ -27,9 +27,3 @@
   * [zkSync Lite](brand-assets/zksync/zksync-lite/README.md)
     * [Icons](brand-assets/zksync/zksync-lite/icons.md)
 * [💜 Matter Labs](brand-assets/matter-labs.md)
-
-## Community Zone
-
-* [Community Moderators](community-zone/community-moderators.md)
-* [Language Moderators](community-zone/language-moderators.md)
-* [zkStars](community-zone/zkstars.md)
