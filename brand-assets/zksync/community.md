@@ -36,4 +36,6 @@
 
 <figure><img src="../../.gitbook/assets/Zk Sync Logo.png" alt="" width="375"><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/Spheres.png" alt=""><figcaption></figcaption></figure>
+ 
 </div>
