@@ -2,7 +2,7 @@
 
 * [👋 Welcome](README.md)
 
-## Connect with Community
+## Connect with the Community
 
 * [🔗 Official Links](connect-with-community/official-links.md)
 * [🆘 Support](connect-with-community/support.md)
