@@ -3,6 +3,7 @@
 <details>
 
 <summary>Table of Contents</summary>
+  
 * [What is zkSync?](faq.md#what-is-zksync)
   
 * [What is zkSync Era?](faq.md#what-is-zksync-era)
@@ -138,8 +139,8 @@ Yes, [https://ecosystem.zksync.io/](https://ecosystem.zksync.io/)
 ## Why don't I see my funds on my wallet? 
 
 ### zkSync Era
-For zkSync Era make sure you are connected to the zkSync Era mainnet. If you still don't see your funds, you might need to change display settings to either show or add custom tokens on your wallet interface. You can check MetaMask's ["How to disploy tokens in MetaMask](https://support.metamask.io/hc/en-us/articles/360015489031-How-to-display-tokens-in-MetaMask) for more details.
+For zkSync Era make sure you are connected to the zkSync Era mainnet. If you still don't see your funds, you might need to change display settings to either show or add custom tokens on your wallet interface. You can check MetaMask's ["How to display tokens in MetaMask"](https://support.metamask.io/hc/en-us/articles/360015489031-How-to-display-tokens-in-MetaMask) for more details.
 
 ### zkSync Lite
-You will not see your zkSync Lite funds on your wallet unless it is integrated with zkSync Lite like [Argent](https://www.argent.xyz/). 
+You will not see your zkSync Lite funds on your wallet unless it is integrated with zkSync Lite like [Argent](https://www.argent.xyz/). <br>
 </br>Since you connect to zkSync Lite via Ethereum mainnet your wallet will show you your funds on Ethereum and you can check your zkSync Lite funds on [the zkSync Lite wallet](https://lite.zksync.io/) or [the zkSync Lite block explorer](https://zkscan.io/).
