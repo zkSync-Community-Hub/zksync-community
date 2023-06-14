@@ -5,11 +5,18 @@
 ## Connect with the Community
 
 * [🔗 Official Links](connect-with-community/official-links.md)
-* [🆘 Support](connect-with-community/support.md)
 
-## Frequently Asked Questions
+## Security
 
-* [❓ FAQ](frequently-asked-questions/faq.md)
+* [🛡 Security Tips](security/security-tips.md)
+* [⚔ Tools](security/tools.md)
+* [🗃 Past Hacks Database](security/past-hacks-database.md)
+
+## Support
+
+* [🆘 Support](support/support.md)
+* [❓ FAQ](support/faq.md)
+* [✍ Tutorials](support/tutorials.md)
 
 ## Testnet Faucets
 
