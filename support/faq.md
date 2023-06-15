@@ -84,7 +84,7 @@ You can find fully verified withdrawals on [Etherscan](https://etherscan.io/) in
 
 ### zkSync Era
 
-No you cannot send funds to or from a Centralized Exchange (CEX) until the network is supported by the exchange. To prevent loss of funds, please check with the specific exchange for their policies and support before sending funds to or from zkSync Era to a CEX.
+No, you cannot send funds to or from a Centralized Exchange (CEX) until the network is supported by the exchange. To prevent loss of funds, please check with the specific exchange for their policies and support before sending funds to or from zkSync Era to a CEX.
 
 Until there is more CEX support for zkSync Era you can use some third-party bridges to deposit funds from a CEX to zkSync. See our [Ecosystem page](https://ecosystem.zksync.io/) for a list of bridges.
 
