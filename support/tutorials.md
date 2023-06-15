@@ -20,6 +20,8 @@
 
 {% tabs %}
 {% tab title="zkSync Era" %}
+### How to Add the Network to Your Wallet for zkSync Era
+
 Adding networks to wallets will vary, but below you'll find the information needed to add the zkSync Era network to your wallet.
 
 **Mainnet network info**
@@ -42,105 +44,97 @@ Adding networks to wallets will vary, but below you'll find the information need
 {% endtab %}
 
 {% tab title="zkSync Lite" %}
+### How to Add the Network to Your Wallet for zkSync Lite
+
 There is no custom network for zkSync Lite.&#x20;
 
 To access the zkSync Lite network you'll use "Ethereum mainnet" for mainnet or "Goerli test network" for testnet.
 {% endtab %}
 {% endtabs %}
 
-### zkSync Era
-
-Adding networks to wallets will vary, but below you'll find the information needed to add the zkSync Era network to your wallet.
-
-**Mainnet network info**
-
-* Network Name: `zkSync Era Mainnet`
-* RPC URL: `https://mainnet.era.zksync.io`
-* Chain ID: `324`
-* Currency Symbol: `ETH`
-* Block Explorer URL: `https://explorer.zksync.io/`
-* WebSocket URL: `wss://mainnet.era.zksync.io/ws`
-
-**Testnet network info**
-
-* Network Name: `zkSync Era Testnet`
-* RPC URL: `https://testnet.era.zksync.dev`
-* Chain ID: `280`
-* Currency Symbol: `ETH`
-* Block Explorer URL: `https://goerli.explorer.zksync.io/`
-* WebSocket URL: `wss://testnet.era.zksync.dev/ws`
-
-### zkSync Lite
-
-There is no custom network for zkSync Lite.&#x20;
-
-To access the zkSync Lite network you'll use "Ethereum mainnet" for mainnet or "Goerli test network" for testnet.zkSync Lite
-
 ## How to Deposit
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-{% embed url="https://scribehow.com/shared/How_to_Deposit_to_zkSync_Era__YNSPhd4_QWO7rfrGlFfAAg" %}
-{% endtab %}
-
-{% tab title="zkSync Lite" %}
-{% embed url="https://scribehow.com/shared/How_to_Deposit_to_zkSync_Lite__43gJIkg0TXGiQG7QnJwfMA" %}
-{% endtab %}
-{% endtabs %}
-
-### zkSync Era
+### How to Deposit to zkSync Era
 
 {% embed url="https://scribehow.com/shared/How_to_Deposit_to_zkSync_Era__YNSPhd4_QWO7rfrGlFfAAg" %}
 How to Deposit to zkSync Era tutorial
 {% endembed %}
+{% endtab %}
 
-### zkSync Lite
+{% tab title="zkSync Lite" %}
+### How to Deposit to zkSync Lite
 
 {% embed url="https://scribehow.com/shared/How_to_Deposit_to_zkSync_Lite__43gJIkg0TXGiQG7QnJwfMA" %}
-How to Deposit to zkSync Lite tutorial
+How to Depsoti to zkSync Lite tutorial
 {% endembed %}
+{% endtab %}
+{% endtabs %}
 
 ## How to Transfer
 
-### zkSync Era
+{% tabs %}
+{% tab title="zkSync Era" %}
+### How to Transfer Tokens on zkSync Era
 
 {% embed url="https://scribehow.com/shared/How_to_Transfer_Tokens_on_zkSync_Era__PIn3bv4bQ_y8ggug6hslwQ" %}
-How to Transfer on zkSync Era tutorial
+How to Transfer Tokens on zkSync Era tutorial
 {% endembed %}
 
-### zkSync Lite
+
+{% endtab %}
+
+{% tab title="zkSync Lite" %}
+### How to Transfer Tokens on zkSync Lite
 
 {% embed url="https://scribehow.com/shared/How_to_Transfer_tokens_on_zkSync_Lite__NTnUU51cRVaCJMTDHF_7jQ" %}
-How to Transfer on zkSync Lite tutorial
+How to Transfer Tokens on zkSync Lite tutorial
 {% endembed %}
+{% endtab %}
+{% endtabs %}
 
 ## How to Withdraw
 
-### zkSync Era
+{% tabs %}
+{% tab title="zkSync Era" %}
+### How to Withdraw from zkSync Era
 
 {% embed url="https://scribehow.com/shared/How_to_withdraw_from_zkSync_Era__W1HRSsaJTruNJo8V7Kg9wg" %}
 How to Withdraw from zkSync Era tutorial
 {% endembed %}
 
-### zkSync Lite
+
+{% endtab %}
+
+{% tab title="zkSync Lite" %}
+### How to Withdraw from zkSync Lite
 
 {% embed url="https://scribehow.com/shared/How_to_Withdraw_from_zkSync_Lite__zSQrpJ9tREeX2ByUNoXJ4A" %}
 How to Withdraw from zkSync Lite tutorial
 {% endembed %}
+{% endtab %}
+{% endtabs %}
 
 ## How to Find Your Withdrawal on L1
 
-### zkSync Era
+{% tabs %}
+{% tab title="zkSync Era" %}
+### How to Find Your Withdrawal from zkSync Era on L1
 
 {% embed url="https://scribehow.com/shared/How_to_find_your_withdrawal_on_L1__IjNLsnhLTXmR42m8Qflz3A" %}
 How to Find your Withdrawal from zkSync Era on L1 tutorial
 {% endembed %}
+{% endtab %}
 
-### zkSync Lite
+{% tab title="zkSync Lite" %}
+### How to Find your Withdrawal from zkSync Lite on L1
 
 {% embed url="https://scribehow.com/shared/How_to_Find_Your_Withdrawal_from_zkSync_Era_on_L1__ra44v0MnRay970hZyT8AEw" %}
 How to Find your Withdrawal from zkSync Lite on L1 tutorial
 {% endembed %}
+{% endtab %}
+{% endtabs %}
 
 ## How to Check the Execution Status of a Transaction on zkSync Era
 
@@ -152,17 +146,23 @@ How to Find your Withdrawal from zkSync Lite on L1 tutorial
 
 ## How to Mint an NFT
 
-### zkSync Era
+{% tabs %}
+{% tab title="zkSync Era" %}
+### How to Mint an NFT on zkSync Era
 
 Minting an NFT on zkSync Era is similar to the process of minting an NFT on Ethereum.&#x20;
 
 You can find tools or dApps to mint NFTs on our [ecosystem page](https://ecosystem.zksync.io/).&#x20;
+{% endtab %}
 
-### zkSync Lite
+{% tab title="Second Tab" %}
+### How to Mint an NFT on zkSync Lite
 
 {% embed url="https://scribehow.com/shared/Mint_an_NFT_on_zkSync_Lite__pd-KjhwcSK2PQpy8sMxkhw" %}
 How to Mint an NFT on zkSync Lite tutorial
 {% endembed %}
+{% endtab %}
+{% endtabs %}
 
 ## How to Use the Alternative Withdrawal Tool for zkSync Lite
 

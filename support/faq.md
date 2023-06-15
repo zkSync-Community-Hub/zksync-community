@@ -42,23 +42,11 @@ You can learn more about zkSync Lite on [L2beat.com](https://l2beat.com/scaling/
 {% endtab %}
 {% endtabs %}
 
-## What is zkSync Era?
-
-<table><thead><tr><th>Feature</th><th>zkSync Era (formerly zkSync 2.0)</th><th data-hidden>zkSync Lite (formerly zkSync 1.0)</th></tr></thead><tbody><tr><td><strong>Description</strong></td><td>zkSync Era is a Zero Knowledge (ZK) rollup that supports generalized EVM compatibility for the Ethereum blockchain.</td><td>zkSync Lite is a trustless protocol for scalable low-cost payments on Ethereum, powered by zkRollup technology.</td></tr><tr><td><strong>Mainnet</strong></td><td><a href="https://blog.matter-labs.io/gm-zkevm-171b12a26b36">March 24, 2023</a></td><td><a href="https://blog.matter-labs.io/zksync-is-live-bringing-trustless-scalable-payments-to-ethereum-9c634b3e6823">June 18, 2020</a></td></tr><tr><td><strong>Purpose</strong></td><td>Universal</td><td>Payments, NFTs, Atomic Swaps</td></tr><tr><td><strong>Smart Contracts</strong></td><td>✅</td><td>❌</td></tr></tbody></table>
-
-You can learn more about both protocols on [L2beat.com](https://l2beat.com/scaling/projects/zksync-era).
-
-## What is zkSync Lite?
-
-<table><thead><tr><th>Feature</th><th>zkSync Lite (formerly zkSync 1.0)</th><th data-hidden>zkSync Era (formerly zkSync 2.0)</th></tr></thead><tbody><tr><td><strong>Description</strong></td><td>zkSync Lite is a trustless protocol for scalable low-cost payments on Ethereum, powered by zkRollup technology.</td><td>zkSync Era is a Zero Knowledge (ZK) rollup that supports generalized EVM compatibility for the Ethereum blockchain.</td></tr><tr><td><strong>Mainnet</strong></td><td><a href="https://blog.matter-labs.io/zksync-is-live-bringing-trustless-scalable-payments-to-ethereum-9c634b3e6823">June 18, 2020</a></td><td><a href="https://blog.matter-labs.io/gm-zkevm-171b12a26b36">March 24, 2023</a></td></tr><tr><td><strong>Purpose</strong></td><td>Payments, NFTs, Atomic Swaps</td><td>Universal</td></tr><tr><td><strong>Smart Contracts</strong></td><td>❌</td><td>✅</td></tr></tbody></table>
-
-You can learn more about zkSync Lite on [L2beat.com](https://l2beat.com/scaling/projects/zksync-lite).
-
 ## How do fees work on zkSync?
 
-Fees depend on Ethereum Layer 1 (L1) gas prices because with every zkSync Layer 2 (L2) transaction, we post related data on Layer 1 — this allows us to inherit the security of Ethereum.
-
-### zkSync Era
+{% tabs %}
+{% tab title="zkSync Era" %}
+### How do fees work on zkSync Era?
 
 In zkSync Era, the way fees are calculated is similar to Ethereum. Fees are needed for:
 
@@ -69,46 +57,72 @@ In zkSync Era, the way fees are calculated is similar to Ethereum. Fees are need
 5. Creating proofs (proof generation).
 
 The fees for putting data on the L1 chain can change a lot due to volatile L1 gas prices. Because of this, the fees on a L2 will rise and fall with L1 fees.
+{% endtab %}
+
+{% tab title="zkSync Lite" %}
+### How do fees work on zkSync Lite?
+
+Fees depend on Ethereum Layer 1 (L1) gas prices because with every zkSync Layer 2 (L2) transaction, we post related data on Layer 1 — this allows us to inherit the security of Ethereum.
+{% endtab %}
+{% endtabs %}
 
 ## How long are withdrawal times?
 
-### zkSync Era
+{% tabs %}
+{% tab title="zkSync Era" %}
+### How Long are Withdrawal Ttaimes on zkSync Era?
 
 There is currently a 24 hour delay on withdrawals from zkSync Era mainnet to Ethereum L1. You can learn more about the process and reason in our latest [blog post](https://blog.matter-labs.io/securing-zksync-era-execution-delay-ee32b11d6f9)
 
 Once the transaction is ["Committed"](faq.md#what-do-the-statuses-mean-ofa-transaction) the 24 hour delay starts.
 
-You can check our tutorial for ["How to Withrdraw"](faq.md) for details on how to check if your transaction is past the withdrawal delay.
+You can check our tutorial for <mark style="background-color:blue;">"How to Withrdraw"</mark> for details on how to check if your transaction is past the withdrawal delay.
+{% endtab %}
 
-### zkSync Lite
+{% tab title="zkSync Lite" %}
+### How Long are Withdrawal Times on zkSync Lite?
 
 At peak usage of zkSync, the withdrawal time is about 15 minutes. During lower use, it can take up to 10 hours. Currently, withdrawal times depend on the activity on zkSync, when we finalize blocks, and submit them to L1.
+{% endtab %}
+{% endtabs %}
 
 ## Where can I see my funds after a withdrawal?
 
-### zkSync Era
+{% tabs %}
+{% tab title="zkSync Era" %}
+### Where can I see my funds after a withdrawal from zkSync Era?
 
 You can find fully verified withdrawals on [Etherscan](https://etherscan.io/) in the "**Internal Transactions**" tab\*. You will have a transaction from the [`zkSync Era:Diamond Proxy` contract](https://etherscan.io/address/0x32400084c286cf3e17e7b677ea9583e60a000324).
 
 \* If you withdrew a token other than ETH then you would find the transaction in the "**Token Transfers(ERC-20)**" tab.
+{% endtab %}
 
-### zkSync Lite
+{% tab title="zkSync Lite" %}
+### Where can I see my Funds after a Withdrawal from zkSync Lite?
 
 You can find fully verified withdrawals on [Etherscan](https://etherscan.io/) in the "**Internal Transactions**" tab\*. You will have a transaction from the [`zkSync` contract](https://etherscan.io/address/0xabea9132b05a70803a4e85094fd0e1800777fbef#tokentxns).
 
 \* If you withdrew a token other than ETH then you would find the transaction in the "**Token Transfers(ERC-20)**" tab.
+{% endtab %}
+{% endtabs %}
 
 ## Can I send funds to or from a Centralized Exchange to zkSync?
 
-### zkSync Era
+{% tabs %}
+{% tab title="zkSync Era" %}
+### Can I send funds to or from a Centralized Exchange to zkSync Era?
 
 No, you cannot send funds to or from a Centralized Exchange (CEX) until the network is supported by the exchange. To prevent loss of funds, please check with the specific exchange for their policies and support before sending funds to or from zkSync Era to a CEX.
 
 Until there is more CEX support for zkSync Era you can use some third-party bridges to deposit funds from a CEX to zkSync. See our [Ecosystem page](https://ecosystem.zksync.io/) for a list of bridges.
+{% endtab %}
 
-### zkSync Lite
+{% tab title="zkSync Lite" %}
+### Can I send funds to or from a Centralized Exchange to zkSync Lite?
 
 Yes, you can send funds to and from a Centralized Exchange (CEX) to zkSync as long as the CEX supports the zkSync network. However, always ensure to check with the specific exchange for their policies and support. Some third-party bridges allow you to deposit funds from a CEX to zkSync. See our [Ecosystem page](https://ecosystem.zksync.io/) for a list of bridges.
+{% endtab %}
+{% endtabs %}
 
 ## What is the account activation fee on zkSync Lite?
 
@@ -122,18 +136,24 @@ ERC-1271 compatible wallets (like Argent) increase this one-time fee because of 
 
 ## What do the statuses mean of a transaction?
 
-### zkSync Era
+{% tabs %}
+{% tab title="zkSync Era" %}
+### What do the statuses mean of a transaction on zkSync Era?
 
 * **Pending**: the zkSync server has received and processed the transaction. Unless it is a withdrawal, it is ready for immediate use.
 * **Included**: the transaction has been added to L1 batch and processed in era.
 * **Verified**: the transaction’s batch has been proven and verified on the L1 smart contract.
 * **Failed**: the funds for the transaction are not sent and remain in the sender’s wallet, but the gas fee will still be deducted.
+{% endtab %}
 
-### zkSync Lite
+{% tab title="zkSync Lite" %}
+### What do the statuses mean of a transaction on zkSync Lite?
 
 * **Initiated**: the zkSync server has received and processed the transaction. Unless it is a withdrawal, it is ready for immediate use.
 * **Committed**: the transaction appears in a block that is committed to the L1 smart contract.
 * **Verified**: the transaction’s block has been proven and verified on the L1 smart contract.
+{% endtab %}
+{% endtabs %}
 
 ## How long does a deposit take?
 
@@ -145,13 +165,19 @@ No
 
 ## Can I run a validator or a node for zkSync?
 
-### zkSync Era
+{% tabs %}
+{% tab title="zkSync Era" %}
+### Can I run a validator or a node for zkSync Era?
 
 Not at the moment, but the network is expected to move towards a more decentralized model, allowing users to run their own validators or nodes in the future.
+{% endtab %}
 
-### zkSync Lite
+{% tab title="zkSync Lite" %}
+### Can I run a validator or a node for zkSync Lite?
 
 No
+{% endtab %}
+{% endtabs %}
 
 ## Is there a list of projects in the zkSync Ecosystem?
 
@@ -159,12 +185,18 @@ Yes, [https://ecosystem.zksync.io/](https://ecosystem.zksync.io/)
 
 ## Why don't I see my funds on my wallet?
 
-### zkSync Era
+{% tabs %}
+{% tab title="zkSync Era" %}
+### Why don't I see my funds on my wallet for zkSync Era?
 
 For zkSync Era make sure you are connected to the zkSync Era mainnet. If you still don't see your funds, you might need to change display settings to either show or add custom tokens on your wallet interface. You can check MetaMask's ["How to display tokens in MetaMask"](https://support.metamask.io/hc/en-us/articles/360015489031-How-to-display-tokens-in-MetaMask) for more details.
+{% endtab %}
 
-### zkSync Lite
+{% tab title="zkSync Lite" %}
+### Why don't I see my funds on my wallet for zkSync Lite?
 
 You will not see your zkSync Lite funds on your wallet unless it is integrated with zkSync Lite like [Argent](https://www.argent.xyz/).\
 \
 Since you connect to zkSync Lite via Ethereum mainnet your wallet will show you your funds on Ethereum and you can check your zkSync Lite funds on [the zkSync Lite wallet](https://lite.zksync.io/) or [the zkSync Lite block explorer](https://zkscan.io/).
+{% endtab %}
+{% endtabs %}
