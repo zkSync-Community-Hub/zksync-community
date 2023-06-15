@@ -18,6 +18,36 @@
 
 ## How to Add the Network to Your Wallet
 
+{% tabs %}
+{% tab title="zkSync Era" %}
+Adding networks to wallets will vary, but below you'll find the information needed to add the zkSync Era network to your wallet.
+
+**Mainnet network info**
+
+* Network Name: `zkSync Era Mainnet`
+* RPC URL: `https://mainnet.era.zksync.io`
+* Chain ID: `324`
+* Currency Symbol: `ETH`
+* Block Explorer URL: `https://explorer.zksync.io/`
+* WebSocket URL: `wss://mainnet.era.zksync.io/ws`
+
+**Testnet network info**
+
+* Network Name: `zkSync Era Testnet`
+* RPC URL: `https://testnet.era.zksync.dev`
+* Chain ID: `280`
+* Currency Symbol: `ETH`
+* Block Explorer URL: `https://goerli.explorer.zksync.io/`
+* WebSocket URL: `wss://testnet.era.zksync.dev/ws`
+{% endtab %}
+
+{% tab title="zkSync Lite" %}
+There is no custom network for zkSync Lite.&#x20;
+
+To access the zkSync Lite network you'll use "Ethereum mainnet" for mainnet or "Goerli test network" for testnet.
+{% endtab %}
+{% endtabs %}
+
 ### zkSync Era
 
 Adding networks to wallets will vary, but below you'll find the information needed to add the zkSync Era network to your wallet.
@@ -44,9 +74,19 @@ Adding networks to wallets will vary, but below you'll find the information need
 
 There is no custom network for zkSync Lite.&#x20;
 
-To access the zkSync Lite network you'll use "Ethereum mainnet" for mainnet or "Goerli test network" for testnet.
+To access the zkSync Lite network you'll use "Ethereum mainnet" for mainnet or "Goerli test network" for testnet.zkSync Lite
 
 ## How to Deposit
+
+{% tabs %}
+{% tab title="zkSync Era" %}
+{% embed url="https://scribehow.com/shared/How_to_Deposit_to_zkSync_Era__YNSPhd4_QWO7rfrGlFfAAg" %}
+{% endtab %}
+
+{% tab title="zkSync Lite" %}
+{% embed url="https://scribehow.com/shared/How_to_Deposit_to_zkSync_Lite__43gJIkg0TXGiQG7QnJwfMA" %}
+{% endtab %}
+{% endtabs %}
 
 ### zkSync Era
 

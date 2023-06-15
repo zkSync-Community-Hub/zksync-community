@@ -22,7 +22,25 @@
 
 ## What is zkSync?
 
-zkSync is a user-centric, Layer 2, zkRollup platform from [Matter Labs](https://matter-labs.io/). It is a scaling solution for Ethereum, already live on Ethereum mainnet.
+zkSync is a user-centric, Layer 2, zkRollup platform from [Matter Labs](https://matter-labs.io/). It is a scaling solution for Ethereum, with two different versions, zkSync Era and zkSync Lite.
+
+{% tabs %}
+{% tab title="zkSync Era" %}
+## What is zkSync Era?
+
+<table><thead><tr><th>Feature</th><th>zkSync Era (formerly zkSync 2.0)</th><th data-hidden>zkSync Lite (formerly zkSync 1.0)</th></tr></thead><tbody><tr><td><strong>Description</strong></td><td>zkSync Era is a Zero Knowledge (ZK) rollup that supports generalized EVM compatibility for the Ethereum blockchain.</td><td>zkSync Lite is a trustless protocol for scalable low-cost payments on Ethereum, powered by zkRollup technology.</td></tr><tr><td><strong>Mainnet</strong></td><td><a href="https://blog.matter-labs.io/gm-zkevm-171b12a26b36">March 24, 2023</a></td><td><a href="https://blog.matter-labs.io/zksync-is-live-bringing-trustless-scalable-payments-to-ethereum-9c634b3e6823">June 18, 2020</a></td></tr><tr><td><strong>Purpose</strong></td><td>Universal</td><td>Payments, NFTs, Atomic Swaps</td></tr><tr><td><strong>Smart Contracts</strong></td><td>✅</td><td>❌</td></tr></tbody></table>
+
+You can learn more about both protocols on [L2beat.com](https://l2beat.com/scaling/projects/zksync-era).
+{% endtab %}
+
+{% tab title="zkSync Lite" %}
+## What is zkSync Lite?
+
+<table><thead><tr><th>Feature</th><th>zkSync Lite (formerly zkSync 1.0)</th><th data-hidden>zkSync Era (formerly zkSync 2.0)</th></tr></thead><tbody><tr><td><strong>Description</strong></td><td>zkSync Lite is a trustless protocol for scalable low-cost payments on Ethereum, powered by zkRollup technology.</td><td>zkSync Era is a Zero Knowledge (ZK) rollup that supports generalized EVM compatibility for the Ethereum blockchain.</td></tr><tr><td><strong>Mainnet</strong></td><td><a href="https://blog.matter-labs.io/zksync-is-live-bringing-trustless-scalable-payments-to-ethereum-9c634b3e6823">June 18, 2020</a></td><td><a href="https://blog.matter-labs.io/gm-zkevm-171b12a26b36">March 24, 2023</a></td></tr><tr><td><strong>Purpose</strong></td><td>Payments, NFTs, Atomic Swaps</td><td>Universal</td></tr><tr><td><strong>Smart Contracts</strong></td><td>❌</td><td>✅</td></tr></tbody></table>
+
+You can learn more about zkSync Lite on [L2beat.com](https://l2beat.com/scaling/projects/zksync-lite).
+{% endtab %}
+{% endtabs %}
 
 ## What is zkSync Era?
 
