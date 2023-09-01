@@ -1,7 +1,8 @@
 # 🔗 Official Links
 
 * [Website](https://zksync.io/)
-* [zkSync Plus](https://zkplus.io/)
+* [zkSync Portal](https://portal.zksync.io/)
+* [Ecosystem](https://ecosystem.zksync.io/)
 
 <details>
 
@@ -12,6 +13,7 @@
 * [Matter Labs Twitter](https://twitter.com/the\_matter\_labs)
 * [zkSync Announcements Telegram](https://t.me/zksync)
 * [Matter Labs' Blog](https://blog.matter-labs.io/)
+* [Mirror](https://zksync.mirror.xyz/)
 * [YouTube](https://youtube.com/@zkSync-era)
 * [Discord](https://join.zksync.dev/)
 * [Guild](https://guild.xyz/zksync-era)
@@ -32,7 +34,6 @@
 * [Testnet Block Explorer](https://goerli.explorer.zksync.io/)
 * [Testnet dApps](https://matterlabs.notion.site/zkSync-Era-Testnet-Applications-e38328bccda7472793024a25e26a1cac)
 * [Testnet Status](https://uptime.com/s/zkSync-testnet)
-* [Ecosystem](https://ecosystem.zksync.io/)
 
 </details>
 
@@ -46,7 +47,6 @@
 * [Alternative Withdrawal Tool](https://withdraw.zksync.io/)
 * [Payment Link Creator](https://checkout.zksync.io/link/)
 * [Network Status](https://uptime.com/s/zkSync)
-* [Ecosystem](https://ecosystem.zksync.io/)
 
 </details>
 

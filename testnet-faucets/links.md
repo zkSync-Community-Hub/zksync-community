@@ -7,12 +7,12 @@
 ## Goerli L1 Faucets
 
 1. [https://goerlifaucet.com/](https://goerlifaucet.com/)
-2. [https://goerli-faucet.mudit.blog/](https://goerli-faucet.mudit.blog/)
-3. [https://faucet.paradigm.xyz/](https://faucet.paradigm.xyz/)
-4. [https://goerli-faucet.pk910.de/](https://goerli-faucet.pk910.de/)
-5. [https://goerli-faucet.com/](https://goerli-faucet.com/)
+2. [https://faucet.paradigm.xyz/](https://faucet.paradigm.xyz/)
+3. [https://goerli-faucet.pk910.de/](https://goerli-faucet.pk910.de/)
+4. [https://goerli-faucet.com/](https://goerli-faucet.com/)
 
 ## zkSync Era testnet Faucets
 
-1. [https://goerli.portal.zksync.io/faucet](https://goerli.portal.zksync.io/faucet)
-2. [https://zksync-faucet.pk910.de/](https://zksync-faucet.pk910.de/)
+1. [https://faucet.chainstack.com/zksync-testnet-faucet](https://faucet.chainstack.com/zksync-testnet-faucet)
+2. [https://goerli.portal.zksync.io/faucet](https://goerli.portal.zksync.io/faucet)
+3. [https://zksync-faucet.pk910.de/](https://zksync-faucet.pk910.de/)

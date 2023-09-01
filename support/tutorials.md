@@ -56,7 +56,7 @@ To access the zkSync Lite network you'll use "Ethereum mainnet" for mainnet or "
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### How to Deposit to zkSync Era
+### How to Deposit to zkSync Era <mark style="background-color:red;">\[NEEDS UPDATING]</mark>
 
 {% embed url="https://scribehow.com/shared/How_to_Deposit_to_zkSync_Era__YNSPhd4_QWO7rfrGlFfAAg" %}
 How to Deposit to zkSync Era tutorial
@@ -76,7 +76,7 @@ How to Depsoti to zkSync Lite tutorial
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### How to Transfer Tokens on zkSync Era
+### How to Transfer Tokens on zkSync Era <mark style="background-color:red;">\[NEEDS UPDATING]</mark>
 
 {% embed url="https://scribehow.com/shared/How_to_Transfer_Tokens_on_zkSync_Era__PIn3bv4bQ_y8ggug6hslwQ" %}
 How to Transfer Tokens on zkSync Era tutorial
@@ -98,7 +98,7 @@ How to Transfer Tokens on zkSync Lite tutorial
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### How to Withdraw from zkSync Era
+### How to Withdraw from zkSync Era <mark style="background-color:red;">\[NEEDS UPDATING]</mark>
 
 {% embed url="https://scribehow.com/shared/How_to_withdraw_from_zkSync_Era__W1HRSsaJTruNJo8V7Kg9wg" %}
 How to Withdraw from zkSync Era tutorial
