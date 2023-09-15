@@ -1,25 +1,5 @@
 # ❓ FAQ
 
-<details>
-
-<summary>Table of Contents</summary>
-
-* [What is zkSync?](faq.md#what-is-zksync)
-* [What is zkSync Era?](faq.md#what-is-zksync-era)
-* [What is zkSync Lite?](faq.md#what-is-zksync-lite)
-* [How do fees work on zkSync?](faq.md#how-do-fees-work-on-zksync)
-* [How long are withdrawal times?](faq.md#how-long-are-withdrawal-times)
-* [Where can I see my funds after a withdrawal?](faq.md#where-can-i-see-my-funds-after-a-withdrawal)
-* [Can I send funds to or from a Centralized Exchange to zkSync?](faq.md#can-i-send-funds-to-or-from-a-centralized-exchange-to-zksync)
-* [What is the account activation fee?](faq.md#what-is-the-account-activation-fee-on-zksync-lite)
-* [What do the statuses mean of a transaction?](faq.md#what-do-the-statuses-mean-of-a-transaction)
-* [How long does a deposit take?](faq.md#how-long-does-a-deposit-take)
-* [Is there a token for zkSync?](faq.md#is-there-a-token-for-zksync)
-* [Can I run a validator or a node for zkSync?](faq.md#can-i-run-a-validator-or-a-node-for-zksync)
-* [Is there a list of projects in the zkSync Ecosystem?](faq.md#is-there-a-list-of-projects-in-the-zksync-ecosystem)
-
-</details>
-
 ## What is zkSync?
 
 zkSync is a user-centric, Layer 2, zkRollup platform from [Matter Labs](https://matter-labs.io/). It is a scaling solution for Ethereum, with two different versions, zkSync Era and zkSync Lite.

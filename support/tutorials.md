@@ -1,21 +1,5 @@
 # ✍ Tutorials
 
-<details>
-
-<summary>Table of Contents</summary>
-
-* [How to Add the Network to Your Wallet](tutorials.md#how-to-add-the-network-to-your-wallet)
-* [How to Deposit](tutorials.md#how-to-deposit)
-* [How to Transfer](tutorials.md#how-to-transfer)
-* [How to Withdraw](tutorials.md#how-to-withdraw)
-* [How to Find your Withdrawal on L1](tutorials.md#how-to-find-your-withdrawal-on-l1)
-* [How to Check the Execution Status of a Transaction on zkSync Era](tutorials.md#how-to-check-the-execution-status-of-a-transaction-on-zksync-era)
-* [How to Bridge from zkSync Lite to zkSync Era](tutorials.md#how-to-bridge-funds-from-zksync-lite-to-zksync-era)
-* [How to Mint an NFT](tutorials.md#how-to-mint-an-nft)
-* [How to Use the Alternative Withdrawal Tool for zkSync Lite](tutorials.md#how-to-use-the-alternative-withdrawal-tool-for-zksync-lite)
-
-</details>
-
 ## How to Add the Network to Your Wallet
 
 {% tabs %}
