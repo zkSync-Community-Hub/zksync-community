@@ -33,6 +33,10 @@ Adding networks to wallets will vary, but below you'll find the information need
 * Block Explorer URL: `https://explorer.zksync.io/`
 * WebSocket URL: `wss://mainnet.era.zksync.io/ws`
 
+{% hint style="info" %}
+You can connect your wallet directly to Chainlist to add zkSync Era mainnet automatically [https://chainlist.org/chain/324](https://chainlist.org/chain/324)
+{% endhint %}
+
 **Testnet network info**
 
 * Network Name: `zkSync Era Testnet`
@@ -56,9 +60,9 @@ To access the zkSync Lite network you'll use "Ethereum mainnet" for mainnet or "
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### How to Deposit to zkSync Era <mark style="background-color:red;">\[NEEDS UPDATING]</mark>
+### How to Deposit to zkSync Era
 
-{% embed url="https://scribehow.com/shared/How_to_Deposit_to_zkSync_Era__YNSPhd4_QWO7rfrGlFfAAg" %}
+{% embed url="https://scribehow.com/shared/How_to_Deposit_to_zkSync_Era__IB-2JPr0Q0-gp08vmVeSNw" %}
 How to Deposit to zkSync Era tutorial
 {% endembed %}
 {% endtab %}
@@ -76,13 +80,11 @@ How to Depsoti to zkSync Lite tutorial
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### How to Transfer Tokens on zkSync Era <mark style="background-color:red;">\[NEEDS UPDATING]</mark>
+### How to Send Tokens on zkSync Era
 
-{% embed url="https://scribehow.com/shared/How_to_Transfer_Tokens_on_zkSync_Era__PIn3bv4bQ_y8ggug6hslwQ" %}
-How to Transfer Tokens on zkSync Era tutorial
+{% embed url="https://scribehow.com/shared/How_to_send_tokens_on_zkSync_Era__BFYDOYalSKWLmE-gVDAEZA" %}
+How to Send Tokens on zkSync Era tutorial
 {% endembed %}
-
-
 {% endtab %}
 
 {% tab title="zkSync Lite" %}
@@ -94,17 +96,17 @@ How to Transfer Tokens on zkSync Lite tutorial
 {% endtab %}
 {% endtabs %}
 
+
+
 ## How to Withdraw
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### How to Withdraw from zkSync Era <mark style="background-color:red;">\[NEEDS UPDATING]</mark>
+### How to Withdraw from zkSync Era
 
-{% embed url="https://scribehow.com/shared/How_to_withdraw_from_zkSync_Era__W1HRSsaJTruNJo8V7Kg9wg" %}
-How to Withdraw from zkSync Era tutorial
+{% embed url="https://scribehow.com/shared/How_to_Withdraw_Funds_from_zkSync_Era_to_Ethereum__-1nbPpVqS6u_0wDfsAKr1g" %}
+How to Withdraw from zkSync Era tuorial
 {% endembed %}
-
-
 {% endtab %}
 
 {% tab title="zkSync Lite" %}
@@ -115,6 +117,8 @@ How to Withdraw from zkSync Lite tutorial
 {% endembed %}
 {% endtab %}
 {% endtabs %}
+
+
 
 ## How to Find Your Withdrawal on L1
 
