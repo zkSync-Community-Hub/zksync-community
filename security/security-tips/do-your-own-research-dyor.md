@@ -1,5 +1,9 @@
 # 🔍 Do Your Own Research (DYOR)
 
+{% hint style="info" %}
+More on this topic can be found here: [https://zksync.mirror.xyz/rWlsCglbXl-2ZrjJukDfRdgX4k7OIP6rgRea-4d\_AKM](https://zksync.mirror.xyz/rWlsCglbXl-2ZrjJukDfRdgX4k7OIP6rgRea-4d\_AKM)
+{% endhint %}
+
 ## Introduction
 
 In crypto, "DYOR" (Do Your Own Research) is crucial due to the highly adversarial nature of the space, where smart contract vulnerabilities and malicious actors abound. One of the most important things to understand is that blockchains are public networks that are “permissionless.” This means that anyone can build on top of that blockchain, or can even copy it and create their own version. This is very different from web2 business models like app stores, where a responsible company reviews the apps before going live.
