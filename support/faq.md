@@ -70,7 +70,7 @@ Fees depend on Ethereum Layer 1 (L1) gas prices because with every zkSync Layer 
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### How Long are Withdrawal Ttaimes on zkSync Era?
+### How long are withdrawal times on zkSync Era?
 
 There is currently a 24 hour delay on withdrawals from zkSync Era mainnet to Ethereum L1. You can learn more about the process and reason in our latest [blog post](https://blog.matter-labs.io/securing-zksync-era-execution-delay-ee32b11d6f9)
 
@@ -134,24 +134,26 @@ The registration process happens directly on the Ethereum smart contract and the
 
 ERC-1271 compatible wallets (like Argent) increase this one-time fee because of higher interaction with the zkSync smart contract. This operation is cheaper if you are using a CREATE2 smart-contract-based wallet.
 
-## What do the statuses mean of a transaction?
+## What do the statuses mean for a transaction?
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### What do the statuses mean of a transaction on zkSync Era?
+### What do the statuses mean for a transaction on zkSync Era?
 
-* **Pending**: the zkSync server has received and processed the transaction. Unless it is a withdrawal, it is ready for immediate use.
-* **Included**: the transaction has been added to L1 batch and processed in era.
-* **Verified**: the transaction’s batch has been proven and verified on the L1 smart contract.
-* **Failed**: the funds for the transaction are not sent and remain in the sender’s wallet, but the gas fee will still be deducted.
+* **`Indexing`** - In the mempool but not yet included in a block.
+* **`Failed`** - Unverified/failed transaction.
+* **`zkSync Era Processed, Ethereum Sending`** - Included in a block but the batch containing the block has not yet been committed.
+* **`zkSync Era Processed, Ethereum Validating`** -  Included in a block and committed on the Ethereum L1 network.
+* **`zkSync Era Processed, Ethereum Executing`** - Included in a block and proven on the Ethereum L1 network.
+* **`zkSync Era Processed, Ethereum Executed`** - Included in a block and executed on the Ethereum L1 network.
 {% endtab %}
 
 {% tab title="zkSync Lite" %}
-### What do the statuses mean of a transaction on zkSync Lite?
+### What do the statuses mean for a transaction on zkSync Lite?
 
-* **Initiated**: the zkSync server has received and processed the transaction. Unless it is a withdrawal, it is ready for immediate use.
-* **Committed**: the transaction appears in a block that is committed to the L1 smart contract.
-* **Verified**: the transaction’s block has been proven and verified on the L1 smart contract.
+* **`Initiated`**: the zkSync server has received and processed the transaction. Unless it is a withdrawal, it is ready for immediate use.
+* **`Committed`**: the transaction appears in a block that is committed to the L1 smart contract.
+* **`Verified`**: the transaction’s block has been proven and verified on the L1 smart contract.
 {% endtab %}
 {% endtabs %}
 
