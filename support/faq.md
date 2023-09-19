@@ -22,11 +22,11 @@ You can learn more about zkSync Lite on [L2beat.com](https://l2beat.com/scaling/
 {% endtab %}
 {% endtabs %}
 
-## How do fees work on zkSync?
+## How Do Fees Work on zkSync?
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### How do fees work on zkSync Era?
+### How Do Fees Work on zkSync Era?
 
 In zkSync Era, the way fees are calculated is similar to Ethereum. Fees are needed for:
 
@@ -40,17 +40,17 @@ The fees for putting data on the L1 chain can change a lot due to volatile L1 ga
 {% endtab %}
 
 {% tab title="zkSync Lite" %}
-### How do fees work on zkSync Lite?
+### How Do Fees Work on zkSync Lite?
 
 Fees depend on Ethereum Layer 1 (L1) gas prices because with every zkSync Layer 2 (L2) transaction, we post related data on Layer 1 — this allows us to inherit the security of Ethereum.
 {% endtab %}
 {% endtabs %}
 
-## How long are withdrawal times?
+## How Long are Withdrawal Times?
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### How long are withdrawal times on zkSync Era?
+### How Long are Withdrawal Time son zkSync Era?
 
 There is currently a 24 hour delay on withdrawals from zkSync Era mainnet to Ethereum L1. You can learn more about the process and reason in our latest [blog post](https://blog.matter-labs.io/securing-zksync-era-execution-delay-ee32b11d6f9)
 
@@ -66,11 +66,11 @@ At peak usage of zkSync, the withdrawal time is about 15 minutes. During lower u
 {% endtab %}
 {% endtabs %}
 
-## Where can I see my funds after a withdrawal?
+## Where Can I See My Funds After a Withdrawal?
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### Where can I see my funds after a withdrawal from zkSync Era?
+### Where Can I See My Funds After a Withdrawal from zkSync Era?
 
 You can find fully verified withdrawals on [Etherscan](https://etherscan.io/) in the "**Internal Transactions**" tab\*. You will have a transaction from the [`zkSync Era:Diamond Proxy` contract](https://etherscan.io/address/0x32400084c286cf3e17e7b677ea9583e60a000324).
 
@@ -78,7 +78,7 @@ You can find fully verified withdrawals on [Etherscan](https://etherscan.io/) in
 {% endtab %}
 
 {% tab title="zkSync Lite" %}
-### Where can I see my Funds after a Withdrawal from zkSync Lite?
+### Where Can I See My Funds After a Withdrawal from zkSync Lite?
 
 You can find fully verified withdrawals on [Etherscan](https://etherscan.io/) in the "**Internal Transactions**" tab\*. You will have a transaction from the [`zkSync` contract](https://etherscan.io/address/0xabea9132b05a70803a4e85094fd0e1800777fbef#tokentxns).
 
@@ -86,11 +86,11 @@ You can find fully verified withdrawals on [Etherscan](https://etherscan.io/) in
 {% endtab %}
 {% endtabs %}
 
-## Can I send funds to or from a Centralized Exchange to zkSync?
+## Can I Send Funds to or From a Centralized Exchange to zkSync?
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### Can I send funds to or from a Centralized Exchange to zkSync Era?
+### Can I Send Funds to or From a Centralized Exchange to zkSync Era?
 
 No, you cannot send funds to or from a Centralized Exchange (CEX) until the network is supported by the exchange. To prevent loss of funds, please check with the specific exchange for their policies and support before sending funds to or from zkSync Era to a CEX.
 
@@ -98,13 +98,13 @@ Until there is more CEX support for zkSync Era you can use some third-party brid
 {% endtab %}
 
 {% tab title="zkSync Lite" %}
-### Can I send funds to or from a Centralized Exchange to zkSync Lite?
+### Can I Send Funds to or From a Centralized Exchange to zkSync Lite?
 
 Yes, you can send funds to and from a Centralized Exchange (CEX) to zkSync as long as the CEX supports the zkSync network. However, always ensure to check with the specific exchange for their policies and support. Some third-party bridges allow you to deposit funds from a CEX to zkSync. See our [Ecosystem page](https://ecosystem.zksync.io/) for a list of bridges.
 {% endtab %}
 {% endtabs %}
 
-## What is the account activation fee on zkSync Lite?
+## What is the Account Activation Fee on zkSync Lite?
 
 The account activation fee is a one-time fee to register your account with zkSync. This fee only applies to your first zkSync transaction on zkSync Lite and **does not apply to zkSync Era**.
 
@@ -114,11 +114,11 @@ The registration process happens directly on the Ethereum smart contract and the
 
 ERC-1271 compatible wallets (like Argent) increase this one-time fee because of higher interaction with the zkSync smart contract. This operation is cheaper if you are using a CREATE2 smart-contract-based wallet.
 
-## What do the statuses mean for a transaction?
+## What Do the Statuses Mean for a Transaction?
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### What do the statuses mean for a transaction on zkSync Era?
+### What Do the Statuses Mean for a Transaction on zkSync Era?
 
 * **`Indexing`** - In the mempool but not yet included in a block.
 * **`Failed`** - Unverified/failed transaction.
@@ -129,7 +129,7 @@ ERC-1271 compatible wallets (like Argent) increase this one-time fee because of 
 {% endtab %}
 
 {% tab title="zkSync Lite" %}
-### What do the statuses mean for a transaction on zkSync Lite?
+### What Do the Statuses Mean for a Transaction on zkSync Lite?
 
 * **`Initiated`**: the zkSync server has received and processed the transaction. Unless it is a withdrawal, it is ready for immediate use.
 * **`Committed`**: the transaction appears in a block that is committed to the L1 smart contract.
@@ -137,45 +137,45 @@ ERC-1271 compatible wallets (like Argent) increase this one-time fee because of 
 {% endtab %}
 {% endtabs %}
 
-## How long does a deposit take?
+## How Long Does a Deposit Take?
 
 A deposit to zkSync is a transaction from Ethereum to zkSync, and it typically takes about 5 minutes or about 10 block confirmations on Ethereum L1. The time can vary based on the congestion of the Ethereum network and the L1 gas fee set for the transaction.
 
-## Is there a token for zkSync?
+## Is There a Token for zkSync?
 
 No
 
-## Can I run a validator or a node for zkSync?
+## Can I Run a Validator or a Node for zkSync?
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### Can I run a validator or a node for zkSync Era?
+### Can I Run a Validator or a Node for zkSync Era?
 
 Not at the moment, but the network is expected to move towards a more decentralized model, allowing users to run their own validators or nodes in the future.
 {% endtab %}
 
 {% tab title="zkSync Lite" %}
-### Can I run a validator or a node for zkSync Lite?
+### Can I Run a Validator or a Node for zkSync Lite?
 
 No
 {% endtab %}
 {% endtabs %}
 
-## Is there a list of projects in the zkSync Ecosystem?
+## Is There a List of Projects in the zkSync Ecosystem?
 
 Yes, [https://ecosystem.zksync.io/](https://ecosystem.zksync.io/)
 
-## Why don't I see my funds on my wallet?
+## Why Don't I See My Funds on My Wallet?
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### Why don't I see my funds on my wallet for zkSync Era?
+### Why Don't I See My Funds on My Wallet for zkSync Era?
 
 For zkSync Era make sure you are connected to the zkSync Era mainnet. If you still don't see your funds, you might need to change display settings to either show or add custom tokens on your wallet interface. You can check MetaMask's ["How to display tokens in MetaMask"](https://support.metamask.io/hc/en-us/articles/360015489031-How-to-display-tokens-in-MetaMask) for more details.
 {% endtab %}
 
 {% tab title="zkSync Lite" %}
-### Why don't I see my funds on my wallet for zkSync Lite?
+### Why Don't I See My Funds on My Wallet for zkSync Lite?
 
 You will not see your zkSync Lite funds on your wallet unless it is integrated with zkSync Lite like [Argent](https://www.argent.xyz/).\
 \
