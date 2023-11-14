@@ -2,9 +2,10 @@
 
 * [👋 Welcome](README.md)
 
-## Connect with the Community
+## The Community
 
-* [🔗 Official Links](connect-with-community/official-links.md)
+* [🤝 Discord Best Practices](the-community/discord-best-practices.md)
+* [🔗 Official Links](the-community/official-links.md)
 
 ## Security
 

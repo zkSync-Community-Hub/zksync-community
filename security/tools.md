@@ -1,4 +1,4 @@
-# ⚔ Tools
+# ⚒ Tools
 
 {% hint style="info" %}
 **Disclaimer:** The following list of tools, Twitter accounts, plugins, extensions, etc., is provided for informational purposes only and is intended to assist users in enhancing their online security.&#x20;
