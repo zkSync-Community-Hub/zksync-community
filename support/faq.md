@@ -50,13 +50,13 @@ Fees depend on Ethereum Layer 1 (L1) gas prices because with every zkSync Layer 
 
 {% tabs %}
 {% tab title="zkSync Era" %}
-### How Long are Withdrawal Time son zkSync Era?
+### How Long are Withdrawal Times on zkSync Era?
 
 There is currently a 24 hour delay on withdrawals from zkSync Era mainnet to Ethereum L1. You can learn more about the process and reason in our latest [blog post](https://blog.matter-labs.io/securing-zksync-era-execution-delay-ee32b11d6f9)
 
 Once the transaction is ["Committed"](faq.md#what-do-the-statuses-mean-ofa-transaction) the 24 hour delay starts.
 
-You can check our tutorial for <mark style="background-color:blue;">"How to Withrdraw"</mark> for details on how to check if your transaction is past the withdrawal delay.
+You can check our tutorial for ["How to Withrdraw"](tutorials.md#how-to-withdraw) for details on how to check if your transaction is past the withdrawal delay.
 {% endtab %}
 
 {% tab title="zkSync Lite" %}
