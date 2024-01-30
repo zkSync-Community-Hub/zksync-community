@@ -3,6 +3,7 @@
 * [Website](https://zksync.io/)
 * [zkSync Portal](https://portal.zksync.io/)
 * [Ecosystem](https://ecosystem.zksync.io/)
+* [Developer Github Discussion](https://github.com/zkSync-Community-Hub/zksync-developers/discussions)
 
 <details>
 
@@ -19,6 +20,7 @@
 * [Guild](https://guild.xyz/zksync-era)
 * [Discord Ban Appeal form](https://appeal.zksync.dev/)
 * [Reddit](https://www.reddit.com/r/zkSync/)
+* [Farcaster](https://warpcast.com/\~/channel/zksync)
 
 </details>
 
@@ -28,11 +30,10 @@
 
 * [Documentation](https://era.zksync.io/docs/)
 * [Mainnet Portal](https://portal.zksync.io/)
-* [Testnet Portal](https://goerli.portal.zksync.io/)
 * [Mainnet Bridge](https://bridge.zksync.io/)
 * [Mainnet Block Explorer](https://explorer.zksync.io/)
-* [Testnet Block Explorer](https://goerli.explorer.zksync.io/)
 * [Testnet dApps](https://matterlabs.notion.site/zkSync-Era-Testnet-Applications-e38328bccda7472793024a25e26a1cac)
+* [Mainnet Status](https://uptime.com/statuspage/era)
 * [Testnet Status](https://uptime.com/s/zkSync-testnet)
 
 </details>
