@@ -32,6 +32,7 @@
 * [Mainnet Portal](https://portal.zksync.io/)
 * [Mainnet Bridge](https://bridge.zksync.io/)
 * [Mainnet Block Explorer](https://explorer.zksync.io/)
+  * [zkSync Era Etherscan](https://era.zksync.network/)
 * [Testnet dApps](https://matterlabs.notion.site/zkSync-Era-Testnet-Applications-e38328bccda7472793024a25e26a1cac)
 * [Mainnet Status](https://uptime.com/statuspage/era)
 * [Testnet Status](https://uptime.com/s/zkSync-testnet)
