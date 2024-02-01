@@ -38,3 +38,7 @@
   * [Extras](brand-assets/zksync/extras.md)
   * [Old Logos](brand-assets/zksync/logos.md)
 * [💜 Matter Labs](brand-assets/matter-labs.md)
+
+## Get Involved
+
+* [🦄 zkSuccess](get-involved/zksuccess.md)
