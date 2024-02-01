@@ -7,6 +7,10 @@
 * [🤝 Discord Best Practices](the-community/discord-best-practices.md)
 * [🔗 Official Links](the-community/official-links.md)
 
+## Get Involved
+
+* [🦄 zkSuccess](get-involved/zksuccess.md)
+
 ## Security
 
 * [🛡 Security Tips](security/security-tips/README.md)
@@ -38,7 +42,3 @@
   * [Extras](brand-assets/zksync/extras.md)
   * [Old Logos](brand-assets/zksync/logos.md)
 * [💜 Matter Labs](brand-assets/matter-labs.md)
-
-## Get Involved
-
-* [🦄 zkSuccess](get-involved/zksuccess.md)
