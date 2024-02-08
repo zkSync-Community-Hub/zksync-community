@@ -1,7 +1,7 @@
 ---
 description: >-
   🧙‍♂️ Ready to become a part of ZK Success and help scale Ethereum? Then look
-  no further! Below are the requirements and process for joining zkSuccess!
+  no further! Below are the requirements and process for joining ZK Success!
 ---
 
 # 🦄 ZK Success
