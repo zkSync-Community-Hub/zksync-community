@@ -9,7 +9,7 @@
 
 ## Get Involved
 
-* [🦄 zkSuccess](get-involved/zksuccess.md)
+* [🦄 ZK Success](get-involved/zk-success.md)
 
 ## Security
 

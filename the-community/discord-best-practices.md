@@ -12,7 +12,7 @@ These are only a few to start and if you have any others to add please feel free
 
 1. Interact with kindness and a welcoming tone to make every user feel supported and valued in our community.
 2. Treat every question with patience and understanding, acknowledging the diverse levels of experience within our community.
-3. Only respond to questions if you're sure of the answer. If unsure, either research the topic, let someone else answer, or seek assistance from a zk Success Squad member if the question remains unanswered.
+3. Only respond to questions if you're sure of the answer. If unsure, either research the topic, let someone else answer, or seek assistance from a ZK Success member if the question remains unanswered.
 4. Contribute to a discussion only if you have additional relevant information or a different perspective, avoiding repetition of already provided answers.
 
 </details>
@@ -31,7 +31,7 @@ For severe spamming incidents, report them and let the moderation team handle it
 
 <summary>Dealing with scammers</summary>
 
-Reporting scams is important to keep Discord safe from fraudsters, hence why it is an essential role of zkSuccess. Below are the steps on how to report a scam:
+Reporting scams is important to keep Discord safe from fraudsters, hence why it is an essential role of ZK Success. Below are the steps on how to report a scam:
 
 1. **Identify the scam:** the first part of reporting a scam is identifying it. Scams can take many forms, including phishing links, fraudulent Discord invite links, scammers requesting DM, or even impostors posing as support, team members or moderators.
 2. **Report it:**
