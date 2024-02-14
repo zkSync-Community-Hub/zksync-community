@@ -82,15 +82,15 @@ This is your guide for engaging as a member of ZK Success and a participant in t
 
 **Expected Behaviors**
 
-1. Be Ethical:  We endeavor to enrich the zkSync ecosystem, while not infringing on the rights and wellbeing of others.  We also endeavor to enrich ourselves without causing harm to the zkSync community.  We _do not_ encourage tax evasion, promoting information leaks, speculating on tokens or token prices, or otherwise breaking the law.
-2. Be Kind and Respectful: Treat everyone with kindness, empathy, and respect. We all come from different backgrounds, perspectives and experiences, so let's celebrate our differences and foster a culture of openness and understanding. We may have strong feelings about other layer 1 and layer 2 blockchains, but that is no reason to disparage, defame, or slander any competitor to zkSync or what other chains are doing. Feel free to compare metrics and features, but keep to the facts and be respectful of all the builders in web3 trying to advance freedom through blockchain technology!
-3. Share and Learn: Our community is a space for sharing knowledge, experiences, and ideas. Positively contribute to discussions, offer helpful feedback, be willing to educate others on your work and remain open to learning from others.
-4. Give Credit: When sharing content or ideas that aren't your own, ensure you give proper credit to the original creator. Plagiarism and intellectual property infringement are strictly prohibited.
-5. Respect Privacy: Always seek consent before sharing personal information about yourself or others. Respecting each other's privacy is vital to building trust within our community.
-6. Be Inquisitive And Embrace Continuous Improvement: We strive to improve from each experience, and are open to constructive criticism. We encourage questions, and redirect them to the appropriate channel if we do not have the answer.
-7. Mind Your Language: Communication is key. Use clear and considerate language in your interactions. We aim to create a welcoming environment for users of all ages, so please avoid excessive profanity or explicit content. Remember that zkSync community members are a diverse bunch. English is our primary working language, but to help others where English is not their first language, be succinct and avoid acronyms where possible.
-8. Stay On Topic: While we encourage friendly conversations, please ensure your discussions remain relevant to the community's purpose. To keep our space focused and valuable, off-topic or irrelevant content may be redirected or removed.  Specific topics that are not appropriate include offering to buy or sell any cryptocurrency or engage in price speculation.
-9. No Hate Speech or Harassment: Maintain a constructive and uplifting atmosphere in all interactions.  We have a zero-tolerance policy for any form of hate speech, bullying, harassment, or discrimination. This includes, but is not limited to:
+1. **Be Ethical**:  We endeavor to enrich the zkSync ecosystem, while not infringing on the rights and wellbeing of others.  We also endeavor to enrich ourselves without causing harm to the zkSync community.  We _do not_ encourage tax evasion, promoting information leaks, speculating on tokens or token prices, or otherwise breaking the law.
+2. **Be Kind and Respectful**: Treat everyone with kindness, empathy, and respect. We all come from different backgrounds, perspectives and experiences, so let's celebrate our differences and foster a culture of openness and understanding. We may have strong feelings about other layer 1 and layer 2 blockchains, but that is no reason to disparage, defame, or slander any competitor to zkSync or what other chains are doing. Feel free to compare metrics and features, but keep to the facts and be respectful of all the builders in web3 trying to advance freedom through blockchain technology!
+3. **Share and Learn**: Our community is a space for sharing knowledge, experiences, and ideas. Positively contribute to discussions, offer helpful feedback, be willing to educate others on your work and remain open to learning from others.
+4. **Give Credit**: When sharing content or ideas that aren't your own, ensure you give proper credit to the original creator. Plagiarism and intellectual property infringement are strictly prohibited.
+5. **Respect Privacy**: Always seek consent before sharing personal information about yourself or others. Respecting each other's privacy is vital to building trust within our community.
+6. **Be Inquisitive And Embrace Continuous Improvement**: We strive to improve from each experience, and are open to constructive criticism. We encourage questions, and redirect them to the appropriate channel if we do not have the answer.
+7. **Mind Your Language**: Communication is key. Use clear and considerate language in your interactions. We aim to create a welcoming environment for users of all ages, so please avoid excessive profanity or explicit content. Remember that zkSync community members are a diverse bunch. English is our primary working language, but to help others where English is not their first language, be succinct and avoid acronyms where possible.
+8. **Stay On Topic**: While we encourage friendly conversations, please ensure your discussions remain relevant to the community's purpose. To keep our space focused and valuable, off-topic or irrelevant content may be redirected or removed.  Specific topics that are not appropriate include offering to buy or sell any cryptocurrency or engage in price speculation.
+9. **No Hate Speech or Harassment**: Maintain a constructive and uplifting atmosphere in all interactions.  We have a zero-tolerance policy for any form of hate speech, bullying, harassment, or discrimination. This includes, but is not limited to:
    1. Violent threats or language directed against another person.
    2. Sexist, racist, or otherwise discriminatory jokes and language.
    3. Posting sexually explicit or violent material.
@@ -101,13 +101,13 @@ This is your guide for engaging as a member of ZK Success and a participant in t
    8. Excessive or unnecessary profanity.
    9. Repeated harassment of others. In general, if someone asks you to stop, then stop.
    10. Advocating for, or encouraging, any of the above behavior.
-10. Have Fun and Connect: Finally, remember that ZK Success and the zkSync community is a place to connect, learn, and enjoy. Participate in a manner that encourages positive interactions and enhances the experiences of all.
+10. **Have Fun and Connect**: Finally, remember that ZK Success and the zkSync community is a place to connect, learn, and enjoy. Participate in a manner that encourages positive interactions and enhances the experiences of all.
 
 **How to Represent ZK Success**
 
-1. Respect Confidentiality: Members of ZK Success have an important role within the zkSync community, and may be exposed to material that is not intended for distribution. You may openly share and discuss any thought leadership and marketing material intended to be distributed; however, keep confidential any information that has not yet been shared with the public.
-2. Be Positive: Act and speak both professionally and accurately in a manner that reflects positively on ZK Success and zkSync community.
-3. Accurate Representation:
+1. **Respect Confidentiality**: Members of ZK Success have an important role within the zkSync community, and may be exposed to material that is not intended for distribution. You may openly share and discuss any thought leadership and marketing material intended to be distributed; however, keep confidential any information that has not yet been shared with the public.
+2. **Be Positive**: Act and speak both professionally and accurately in a manner that reflects positively on ZK Success and zkSync community.
+3. **Accurate Representation**:
    1. In an industry where security is critical, please do not promote any giveaway or contest unless specifically approved by Matter Labs as a member of ZK Success.
    2. Please properly present your role in ZK Success on LinkedIn, X (formerly Twitter), or other social media channels, as well as at virtual and in-person events, i.e., do not present yourself as an employee of Matter Labs or partner of zkSync, rather ‘member of ZK Success.’
    3. Speak only for yourself when asked for your opinion and make it clear that your personal opinion may differ from that of Matter Labs, ZK Success members, and the zkSync community.
