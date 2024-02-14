@@ -58,7 +58,8 @@ ZK Success <mark style="color:purple;">**Rookie**</mark>** →** ZK Success <mar
 
 #### ZK Success Intern
 
-* [ ] Must provide support in the [zkSync Discord](https://join.zksync.dev/) server for at least 2 months
+* [ ] Must have the ZK Success Rookie for <mark style="background-color:yellow;">**at least 2 months**</mark>
+* [ ] Must provide support in the [zkSync Discord](https://join.zksync.dev/) server
 * [ ] Must have the Verified Level 2 role on Discord ([https://guild.xyz/zksync-era](https://guild.xyz/zksync-era))
 * [ ] Familiarize yourself with the [Community Hub Docs](https://matterlabs.gitbook.io/zksync-community-hub/)
 * [ ] Familiarize yourself with all of the channels, their uses, and roles in the zkSync Discord
@@ -70,7 +71,7 @@ The quiz is designed to test your knowledge about zkSync and the zkSync Discord 
 
 #### ZK Success Pro
 
-* [ ] Must have actively offered support for another 3 months in the zkSync Discord
+* [ ] Must have actively offered support for another **3 months** in the zkSync Discord **with the ZK Success Intern Role**
 * [ ] Fill out the ZK Success application (On Discord in the #🌱│get-involved channel)
 * [ ] Pass voting process by other ZK Success members
 
