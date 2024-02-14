@@ -48,10 +48,127 @@ ZK Success is a diverse group that embodies the qualities of being helpful, moti
 ZK Success <mark style="color:purple;">**Rookie**</mark>** →** ZK Success <mark style="color:purple;">**Intern**</mark>** →** ZK Success <mark style="color:purple;">**Pro**</mark>
 {% endhint %}
 
-***
+#### ZK Success Rookie
 
-{% hint style="warning" %}
-Check back later for more details 😎
+* [ ] Fill out the ZK Success Rookie form (On Discord in the #🌱│get-involved channel)
+* [ ] Gain as much knowledge about zkSync and Zk-Rollup technology as possible!
+* [ ] Must the Verified Level 1 role on Discord ([https://guild.xyz/zksync-era](https://guild.xyz/zksync-era))
+* [ ] Be helpful, spread positivity and provide guidance in the zkSync Discord
+* [ ] Report scams, bugs or other issues that you might encounter. For best practices you can review the [Discord Best Practices page](https://matterlabs.gitbook.io/zksync-community-hub/the-community/discord-best-practices)
+
+#### ZK Success Intern
+
+* [ ] Must provide support in the [zkSync Discord](https://join.zksync.dev/) server for at least 2 months
+* [ ] Must the Verified Level 2 role on Discord ([https://guild.xyz/zksync-era](https://guild.xyz/zksync-era))
+* [ ] Familiarize yourself with the [Community Hub Docs](https://matterlabs.gitbook.io/zksync-community-hub/)
+* [ ] Familiarize yourself with all of the channels, their uses, and roles in the zkSync Discord
+* [ ] Must pass the ZK Success Intern Quiz (On Discord in the #🌱│get-involved channel)
+
+{% hint style="info" %}
+The quiz is designed to test your knowledge about zkSync and the zkSync Discord to ensure that you are ready to join as a ZK Success Intern. While you have the flexibility to attempt the quiz multiple times, please note that failing will result in a temporary **7-day period** during which you cannot retake the quiz.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/tenor-128925899.gif" alt=""><figcaption></figcaption></figure>
+#### ZK Success Pro
+
+* [ ] Must have actively offered support for another 3 months in the zkSync Discord
+* [ ] Fill out the ZK Success application (On Discord in the #🌱│get-involved channel)
+* [ ] Pass voting process by other ZK Success members
+
+***
+
+### ZK Success Code of Conduct
+
+This is your guide for engaging as a member of ZK Success and a participant in the zkSync ecosystem. It applies to all physical and digital spaces related to zkSync. Your involvement in ZK Success is contingent upon following these guidelines.
+
+**Expected Behaviors**
+
+1. Be Ethical:  We endeavor to enrich the zkSync ecosystem, while not infringing on the rights and wellbeing of others.  We also endeavor to enrich ourselves without causing harm to the zkSync community.  We _do not_ encourage tax evasion, promoting information leaks, speculating on tokens or token prices, or otherwise breaking the law.
+2. Be Kind and Respectful: Treat everyone with kindness, empathy, and respect. We all come from different backgrounds, perspectives and experiences, so let's celebrate our differences and foster a culture of openness and understanding. We may have strong feelings about other layer 1 and layer 2 blockchains, but that is no reason to disparage, defame, or slander any competitor to zkSync or what other chains are doing. Feel free to compare metrics and features, but keep to the facts and be respectful of all the builders in web3 trying to advance freedom through blockchain technology!
+3. Share and Learn: Our community is a space for sharing knowledge, experiences, and ideas. Positively contribute to discussions, offer helpful feedback, be willing to educate others on your work and remain open to learning from others.
+4. Give Credit: When sharing content or ideas that aren't your own, ensure you give proper credit to the original creator. Plagiarism and intellectual property infringement are strictly prohibited.
+5. Respect Privacy: Always seek consent before sharing personal information about yourself or others. Respecting each other's privacy is vital to building trust within our community.
+6. Be Inquisitive And Embrace Continuous Improvement: We strive to improve from each experience, and are open to constructive criticism. We encourage questions, and redirect them to the appropriate channel if we do not have the answer.
+7. Mind Your Language: Communication is key. Use clear and considerate language in your interactions. We aim to create a welcoming environment for users of all ages, so please avoid excessive profanity or explicit content. Remember that zkSync community members are a diverse bunch. English is our primary working language, but to help others where English is not their first language, be succinct and avoid acronyms where possible.
+8. Stay On Topic: While we encourage friendly conversations, please ensure your discussions remain relevant to the community's purpose. To keep our space focused and valuable, off-topic or irrelevant content may be redirected or removed.  Specific topics that are not appropriate include offering to buy or sell any cryptocurrency or engage in price speculation.
+9. No Hate Speech or Harassment: Maintain a constructive and uplifting atmosphere in all interactions.  We have a zero-tolerance policy for any form of hate speech, bullying, harassment, or discrimination. This includes, but is not limited to:
+   1. Violent threats or language directed against another person.
+   2. Sexist, racist, or otherwise discriminatory jokes and language.
+   3. Posting sexually explicit or violent material.
+   4. Posting (or threatening to post) other people's personally identifying information ("doxing").
+   5. Sharing private content without explicit consent, such as messages sent privately or non-publicly.
+   6. Personal insults.
+   7. Unwelcome sexual attention.
+   8. Excessive or unnecessary profanity.
+   9. Repeated harassment of others. In general, if someone asks you to stop, then stop.
+   10. Advocating for, or encouraging, any of the above behavior.
+10. Have Fun and Connect: Finally, remember that ZK Success and the zkSync community is a place to connect, learn, and enjoy. Participate in a manner that encourages positive interactions and enhances the experiences of all.
+
+**How to Represent ZK Success**
+
+1. Respect Confidentiality: Members of ZK Success have an important role within the zkSync community, and may be exposed to material that is not intended for distribution. You may openly share and discuss any thought leadership and marketing material intended to be distributed; however, keep confidential any information that has not yet been shared with the public.
+2. Be Positive: Act and speak both professionally and accurately in a manner that reflects positively on ZK Success and zkSync community.
+3. Accurate Representation:
+   1. In an industry where security is critical, please do not promote any giveaway or contest unless specifically approved by Matter Labs as a member of ZK Success.
+   2. Please properly present your role in ZK Success on LinkedIn, X (formerly Twitter), or other social media channels, as well as at virtual and in-person events, i.e., do not present yourself as an employee of Matter Labs or partner of zkSync, rather ‘member of ZK Success.’
+   3. Speak only for yourself when asked for your opinion and make it clear that your personal opinion may differ from that of Matter Labs, ZK Success members, and the zkSync community.
+4. **Avoid Conflicts of Interest**: Make sure to avoid conflicts of interest at all cost between your profession and your role as a member of ZK Success. While we want you to succeed in your own profession, please refrain from promoting your company, project, or selling your products/services while representing ZK Success.
+
+**Managing Violations**
+
+* If you come across inappropriate content or behavior, please report it without delay. By working together, we can maintain a positive and safe environment.
+  * Any violations of the Code of Conduct may result in removal from current and future participation in ZK Success
+* If you are the subject of, or witness to, any violations of this Code of Conduct, please contact us at [community@zksync.io](mailto:community@zksync.io).
+
+***
+
+### ZK Success FAQ
+
+<details>
+
+<summary><strong>What does it mean to be active?</strong></summary>
+
+We fully understand that people have a life outside of ZK Success and therefore we do not expect people to spend all their time as a ZK Success member nor do we recommend it. However, we expect ZK Success members to maintain the same activity level throughout. This means that becoming a ZK Success member isn't an end goal, but it's rather here where the fun begins!
+
+We understand if you’re not able to to dedicate sufficient time to ZK Success - that’s totally ok! However, in that case we would suggest you wait before applying until you’re in a position where you have more time to dedicate.
+
+</details>
+
+<details>
+
+<summary><strong>How do</strong> ZK Success <strong>members vote and how long does it take?</strong></summary>
+
+After submitting proof of your contributions, the ZK Success Pro members will vote on your application. A minimum of 7 votes in favor is required for acceptance. The applicant is eligible for a maximum of three voting sessions. If the threshold for acceptance is not met after the third voting, the candidate will be required to appeal for further votings
+
+ZK Success members will vote on your nomination by reacting with an upvote in the #✨│zk-hall-of-fame
+
+The voting process should take about a week and you will be given the ZK Success Pro role if you have passed the vote.
+
+</details>
+
+<details>
+
+<summary><strong>What if I need to take a break as a</strong> ZK Success <strong>Pro that is more than one month?</strong></summary>
+
+Taking time for yourself is important, and we understand that. As a member of ZK Success, you can take a break whenever you need. All we ask is that you communicate with us about your plans if you plan to be away for more than one month. We can then assign you a temporary role that indicates you're on a break, so everyone is aware and your position here remains secure.
+
+</details>
+
+<details>
+
+<summary><strong>What is the eligibility criteria?</strong></summary>
+
+ZK Success is open to the community and as long as you are able to follow the steps of each stage then you can participate.
+
+</details>
+
+<details>
+
+<summary><strong>What does active engagement look like on Discord?</strong></summary>
+
+[Discord Best Practices](https://matterlabs.gitbook.io/zksync-community-hub/the-community/discord-best-practices) will be a good place to start as well as seeing how current ZK Success Pros handle situations.
+
+</details>
+
+{% hint style="info" %}
+If you have any other questions you can email us at [**community@zksync.io**](mailto:community@zksync.io)&#x20;
+{% endhint %}
