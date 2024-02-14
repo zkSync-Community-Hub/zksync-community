@@ -52,14 +52,14 @@ ZK Success <mark style="color:purple;">**Rookie**</mark>** →** ZK Success <mar
 
 * [ ] Fill out the ZK Success Rookie form (On Discord in the #🌱│get-involved channel)
 * [ ] Gain as much knowledge about zkSync and Zk-Rollup technology as possible!
-* [ ] Must the Verified Level 1 role on Discord ([https://guild.xyz/zksync-era](https://guild.xyz/zksync-era))
+* [ ] Must have the Verified Level 1 role on Discord ([https://guild.xyz/zksync-era](https://guild.xyz/zksync-era))
 * [ ] Be helpful, spread positivity and provide guidance in the zkSync Discord
 * [ ] Report scams, bugs or other issues that you might encounter. For best practices you can review the [Discord Best Practices page](https://matterlabs.gitbook.io/zksync-community-hub/the-community/discord-best-practices)
 
 #### ZK Success Intern
 
 * [ ] Must provide support in the [zkSync Discord](https://join.zksync.dev/) server for at least 2 months
-* [ ] Must the Verified Level 2 role on Discord ([https://guild.xyz/zksync-era](https://guild.xyz/zksync-era))
+* [ ] Must have the Verified Level 2 role on Discord ([https://guild.xyz/zksync-era](https://guild.xyz/zksync-era))
 * [ ] Familiarize yourself with the [Community Hub Docs](https://matterlabs.gitbook.io/zksync-community-hub/)
 * [ ] Familiarize yourself with all of the channels, their uses, and roles in the zkSync Discord
 * [ ] Must pass the ZK Success Intern Quiz (On Discord in the #🌱│get-involved channel)
