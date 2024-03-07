@@ -6,17 +6,9 @@ description: Tips for interacting on Discord and providing support to others
 
 These are only a few to start and if you have any others to add please feel free to submit a PR with any additions or edits. You can make suggestions or edits at [https://github.com/zkSync-Community-Hub/zksync-community/tree/main](https://github.com/zkSync-Community-Hub/zksync-community/tree/main)
 
-<details>
-
-<summary>How to appeal a ban on the zkSync Discord Server</summary>
-
-1. Enter the zkSync Server ID at [https://appeals.wickbot.com/](https://appeals.wickbot.com/)
-   * **Server ID:** 722409280497516566
-2.
-
-
-
-</details>
+{% embed url="https://scribehow.com/shared/zkSync_Discord_Ban_Appeal_Process__finV9N17RJGjiiwXp5QNyg" %}
+How to appeal a ban on the zkSync Discord Server
+{% endembed %}
 
 <details>
 
