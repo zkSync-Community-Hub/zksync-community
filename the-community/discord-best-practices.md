@@ -8,6 +8,18 @@ These are only a few to start and if you have any others to add please feel free
 
 <details>
 
+<summary>How to appeal a ban on the zkSync Discord Server</summary>
+
+1. Enter the zkSync Server ID at [https://appeals.wickbot.com/](https://appeals.wickbot.com/)
+   * **Server ID:** 722409280497516566
+2.
+
+
+
+</details>
+
+<details>
+
 <summary>How to be helpful and provide guidance in the zkSync Discord</summary>
 
 1. Interact with kindness and a welcoming tone to make every user feel supported and valued in our community.
