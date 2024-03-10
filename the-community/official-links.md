@@ -1,6 +1,7 @@
 # 🔗 Official Links
 
 * [Website](https://zksync.io/)
+* [Zk Stack](https://zkstack.io/)
 * [zkSync Portal](https://portal.zksync.io/)
 * [Ecosystem](https://ecosystem.zksync.io/)
 * [Developer Github Discussion](https://github.com/zkSync-Community-Hub/zksync-developers/discussions)
