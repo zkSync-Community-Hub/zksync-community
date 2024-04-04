@@ -9,7 +9,6 @@
 Adding networks to wallets will vary, but below you'll find the information needed to add the zkSync Era network to your wallet.
 
 **Mainnet network info**
-<network-adder network="mainnet"></network-adder>
 
 * Network Name: `zkSync Era Mainnet`
 * RPC URL: `https://mainnet.era.zksync.io`
