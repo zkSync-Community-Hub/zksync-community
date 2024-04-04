@@ -1,4 +1,4 @@
-# ✍ Tutorials
+# ✍️ Tutorials
 
 ## How to Add the Network to Your Wallet
 
@@ -23,12 +23,12 @@ You can connect your wallet directly to Chainlist to add zkSync Era mainnet auto
 
 **Testnet network info**
 
-* Network Name: `zkSync Era Testnet`
-* RPC URL: `https://testnet.era.zksync.dev`
-* Chain ID: `280`
+* Network Name: `zkSync Era Sepolia Testnet`
+* RPC URL: `https://sepolia.era.zksync.dev`
+* Chain ID: `300`
 * Currency Symbol: `ETH`
-* Block Explorer URL: `https://goerli.explorer.zksync.io/`
-* WebSocket URL: `wss://testnet.era.zksync.dev/ws`
+* Block Explorer URL: `https://sepolia.explorer.zksync.io/`
+* WebSocket URL: `wss://sepolia.era.zksync.dev/ws`
 {% endtab %}
 
 {% tab title="zkSync Lite" %}
@@ -36,7 +36,7 @@ You can connect your wallet directly to Chainlist to add zkSync Era mainnet auto
 
 There is no custom network for zkSync Lite.&#x20;
 
-To access the zkSync Lite network you'll use "Ethereum mainnet" for mainnet or "Goerli test network" for testnet.
+To access the zkSync Lite network you'll use "Ethereum mainnet" for mainnet or "Sepolia test network" for testnet.
 {% endtab %}
 {% endtabs %}
 
