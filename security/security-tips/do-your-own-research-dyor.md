@@ -16,7 +16,7 @@ This guide outlines basic steps for researching web3 projects but is not exhaust
 
 Familiarize yourself with concepts such as blockchain, rollups, bridge, decentralized finance (DeFi), smart contracts, and cryptocurrency wallets to provide a solid foundation for your research. The Ethereum website can be a good starting point: [https://ethereum.org/en/developers/docs/intro-to-ethereum/](https://ethereum.org/en/developers/docs/intro-to-ethereum/).&#x20;
 
-On zkSync Era, you can find more information on our documentation: [https://era.zksync.io/docs/](https://era.zksync.io/docs/)
+On ZKsync Era, you can find more information on our documentation: [https://era.zksync.io/docs/](https://era.zksync.io/docs/)
 
 ## **2. Analyze the project's goals**
 
@@ -32,7 +32,7 @@ Look into the backgrounds of the team members, their experience, and their past 
 
 Review the project's code repositories and development progress. Frequent updates and a large number of contributors are positive signs of an active development team.&#x20;
 
-On the zkSync Era block explorer, you can check whether the contract has been “verified”. In this context, “verified” means that the smart-contract code running at the deployed address corresponds to the code that is shown to the public.&#x20;
+On the ZKsync Era block explorer, you can check whether the contract has been “verified”. In this context, “verified” means that the smart-contract code running at the deployed address corresponds to the code that is shown to the public.&#x20;
 
 {% hint style="info" %}
 For example the smart contract of the VC (Velocore token): [https://explorer.zksync.io/address/0x85D84c774CF8e9fF85342684b0E795Df72A24908#contract](https://explorer.zksync.io/address/0x85D84c774CF8e9fF85342684b0E795Df72A24908#contract)

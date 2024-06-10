@@ -8,7 +8,7 @@
 
 1. [https://faucetlink.to/sepolia](https://faucetlink.to/sepolia)
 
-## zkSync Era testnet Faucets
+## ZKsync Era testnet Faucets
 
 1. [https://faucet.chainstack.com/zksync-testnet-faucet](https://faucet.chainstack.com/zksync-testnet-faucet)
 2. USDC testnet Faucet: [https://faucet.circle.com/](https://faucet.circle.com/)

@@ -4,7 +4,7 @@ coverY: 0
 
 # 👋 Welcome
 
-Welcome to the zkSync Community! The core values for the zkSync community are resilience, subtraction, and inclusion. This repo will be used as a Community hub to share information with the broader zkSync Community. Please feel free to contribute and submit PRs for any changes.
+Welcome to the ZKsync Community! The core values for the ZKsync community are resilience, subtraction, and inclusion. This repo will be used as a Community hub to share information with the broader ZKsync Community. Please feel free to contribute and submit PRs for any changes.
 
 ## What is the purpose of this site?
 

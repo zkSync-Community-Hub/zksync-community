@@ -3,7 +3,7 @@
 {% hint style="info" %}
 **Disclaimer:** The following list of tools, Twitter accounts, plugins, extensions, etc., is provided for informational purposes only and is intended to assist users in enhancing their online security.&#x20;
 
-This list does not constitute an endorsement or recommendation of these tools or Twitter accounts by the zkSync community.&#x20;
+This list does not constitute an endorsement or recommendation of these tools or Twitter accounts by the ZKsync community.&#x20;
 
 We strongly encourage users to conduct their own research and due diligence before using any of these tools or following any of these accounts. The effectiveness, security, and reliability of these tools can vary, and users should consider their own needs and circumstances when deciding whether to use them.&#x20;
 

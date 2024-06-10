@@ -7,12 +7,12 @@ description: Tips for interacting on Discord and providing support to others
 These are only a few to start and if you have any others to add please feel free to submit a PR with any additions or edits. You can make suggestions or edits at [https://github.com/zkSync-Community-Hub/zksync-community/tree/main](https://github.com/zkSync-Community-Hub/zksync-community/tree/main)
 
 {% embed url="https://scribehow.com/shared/zkSync_Discord_Ban_Appeal_Process__finV9N17RJGjiiwXp5QNyg" %}
-How to appeal a ban on the zkSync Discord Server
+How to appeal a ban on the ZKsync Discord Server
 {% endembed %}
 
 <details>
 
-<summary>How to be helpful and provide guidance in the zkSync Discord</summary>
+<summary>How to be helpful and provide guidance in the ZKsync Discord</summary>
 
 1. Interact with kindness and a welcoming tone to make every user feel supported and valued in our community.
 2. Treat every question with patience and understanding, acknowledging the diverse levels of experience within our community.

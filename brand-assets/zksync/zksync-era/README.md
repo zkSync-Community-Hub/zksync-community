@@ -1,4 +1,4 @@
-# zkSync Era
+# ZKsync Era
 
 <div>
 

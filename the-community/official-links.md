@@ -1,7 +1,7 @@
 # 🔗 Official Links
 
 * [Website](https://zksync.io/)
-* [zkSync Portal](https://portal.zksync.io/)
+* [ZKsync Portal](https://portal.zksync.io/)
 * [Ecosystem](https://ecosystem.zksync.io/)
 * [Developer Github Discussion](https://github.com/zkSync-Community-Hub/zksync-developers/discussions)
 
@@ -9,10 +9,10 @@
 
 <summary>Social</summary>
 
-* [zkSync Twitter](https://twitter.com/zksync)
-* [zkSync Developers Twitter](https://twitter.com/zkSyncDevs)
+* [ZKsync Twitter](https://twitter.com/zksync)
+* [ZKsync Developers Twitter](https://twitter.com/zkSyncDevs)
 * [Matter Labs Twitter](https://twitter.com/the\_matter\_labs)
-* [zkSync Announcements Telegram](https://t.me/zksync)
+* [ZKsync Announcements Telegram](https://t.me/zksync)
 * [Matter Labs' Blog](https://blog.matter-labs.io/)
 * [Mirror](https://zksync.mirror.xyz/)
 * [YouTube](https://youtube.com/@zkSync-era)
@@ -27,13 +27,13 @@
 
 <details>
 
-<summary>zkSync Era</summary>
+<summary>ZKsync Era</summary>
 
 * [Documentation](https://era.zksync.io/docs/)
 * [Mainnet Portal](https://portal.zksync.io/)
 * [Mainnet Bridge](https://bridge.zksync.io/)
 * [Mainnet Block Explorer](https://explorer.zksync.io/)
-  * [zkSync Era Etherscan](https://era.zksync.network/)
+  * [ZKsync Era Etherscan](https://era.zksync.network/)
 * [Testnet dApps](https://matterlabs.notion.site/zkSync-Era-Testnet-Applications-e38328bccda7472793024a25e26a1cac)
 * [Mainnet Status](https://uptime.com/statuspage/era)
 * [Testnet Status](https://uptime.com/s/zkSync-testnet)
@@ -42,10 +42,10 @@
 
 <details>
 
-<summary>zkSync Lite</summary>
+<summary>ZKsync Lite</summary>
 
 * [Documentation](https://docs.zksync.io/userdocs/)
-* [zkSync Lite Wallet](https://lite.zksync.io/)
+* [ZKsync Lite Wallet](https://lite.zksync.io/)
 * [Block Explorer](https://zkscan.io/)
 * [Alternative Withdrawal Tool](https://withdraw.zksync.io/)
 * [Payment Link Creator](https://checkout.zksync.io/link/)

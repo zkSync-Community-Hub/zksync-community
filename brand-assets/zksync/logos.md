@@ -18,6 +18,6 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/zkSync.png" alt="zkSync.png" width="100"><figcaption>zkSync.png</figcaption></figure>
+<figure><img src="../../.gitbook/assets/zkSync.png" alt="ZKsync.png" width="100"><figcaption>ZKsync.png</figcaption></figure>
 
 </div>
