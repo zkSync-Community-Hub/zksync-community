@@ -1,4 +1,5 @@
 ---
+cover: .gitbook/assets/ZKsync_Banner_FINAL.png
 coverY: 0
 ---
 

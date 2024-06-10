@@ -25,7 +25,7 @@ How to appeal a ban on the ZKsync Discord Server
 
 <summary>How to handle spammers</summary>
 
-If you see messages like "hh," "hu," "great," or "ok" that don't contribute to the conversation, those are likely spammers. With a community this large, some spam is unavoidable. Instead, keep contributing positively to the community.&#x20;
+If you see messages like "hh," "hu," "great," or "ok" that don't contribute to the conversation, those are likely spammers. With a community this large, some spam is unavoidable. Instead, keep contributing positively to the community.
 
 For severe spamming incidents, report them and let the moderation team handle it. Focus on what really matters: building a great community.
 
@@ -39,14 +39,14 @@ Reporting scams is important to keep Discord safe from fraudsters, hence why it 
 
 1. **Identify the scam:** the first part of reporting a scam is identifying it. Scams can take many forms, including phishing links, fraudulent Discord invite links, scammers requesting DM, or even impostors posing as support, team members or moderators.
 2. **Report it:**
-   1. Find and copy the Discord ID of the fraudster.&#x20;
+   1. Find and copy the Discord ID of the fraudster.
       * You can find it by ‘right clicking’ on their name and clicking on ‘Copy USER ID’.
-   2. Post the User ID in the #report-scam channel and a give a short description of how they tried to scamm. Try to be clear and precise in your description.&#x20;
-      * Feel free to tag the moderators in your scam report so they can eliminate the scam as fast as possible.&#x20;
+   2. Post the User ID in the #report-scam channel and a give a short description of how they tried to scamm. Try to be clear and precise in your description.
+      * Feel free to tag the moderators in your scam report so they can eliminate the scam as fast as possible.
    3. Add a direct link to the scam message if it has not been deleted already.
 
-### _Example:_
+#### _Example:_
 
-![](<../.gitbook/assets/image (1).png>)
+<img src="../.gitbook/assets/image (1).png" alt="" data-size="original">
 
 </details>
