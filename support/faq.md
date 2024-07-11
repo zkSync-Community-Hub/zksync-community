@@ -143,7 +143,7 @@ A deposit to ZKsync is a transaction from Ethereum to ZKsync, and it typically t
 
 ## Is There a Token for ZKsync?
 
-No
+Yes, [https://docs.zknation.io/zk-token/zk-token](https://docs.zknation.io/zk-token/zk-token)
 
 ## Can I Run a Validator or a Node for ZKsync?
 
