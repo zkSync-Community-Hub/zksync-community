@@ -10,6 +10,7 @@
 ## Get Involved
 
 * [🦄 ZK Success](get-involved/zk-success.md)
+* [😎 ZKmentor Program](get-involved/zk-mentor.md)
 
 ## Security
 
