@@ -3,7 +3,6 @@ description: >-
   🧙‍♂️ Ready to become a part of the ZKsync Core Community and help scale
   Ethereum? Then look no further! Below are the requirements and process for
   joining the ZKmentor Program!
-hidden: true
 ---
 
 # 😎 ZKmentor Program
@@ -56,7 +55,7 @@ Individuals who have actively contributed for several months and demonstrated pr
 
 * Knowledge of the ZKCredo, ZKsync Community Hub docs and of all Community channels, their uses and community roles.
 * Serve as a direct contact point for onboarding new community members across social media and Discord.&#x20;
-* Actively moderate discussions on community channels, ensuring productive and positive conversations.
+* Actively participate to discussions and activities, ensuring productive and positive conversations.
 * Provide first-line support for user queries, ensuring questions and concerns are addressed promptly.
 * Report scams, bugs, or any issues in the channels to maintain community safety.&#x20;
 * Participate in the voting process for new Matey.
@@ -64,12 +63,12 @@ Individuals who have actively contributed for several months and demonstrated pr
 **Privileges:**&#x20;
 
 * Monthly featured participation in community calls.&#x20;
-* Access to exclusive events and the opportunity to play supporting roles in community initiatives.
+* Access to exclusive community and ecosystem events and the opportunities.
 * **TBD**
 
 ### **Captain**
 
-Seasoned contributors showcasing leadership within the ZKsync ecosystem.&#x20;
+Long term contributors showcasing leadership within the ZKsync ecosystem.&#x20;
 
 **Scope:** Captains take the lead on key initiatives and work closely with Discord Admins. They support channels and are responsible for community projects and partnerships.&#x20;
 
@@ -79,14 +78,14 @@ Seasoned contributors showcasing leadership within the ZKsync ecosystem.&#x20;
 * Lead community events, AMAs, and strategic community calls, fostering high-level engagement.
 * Mentor and guide Mateys, offering strategic direction for community initiatives.&#x20;
 * Drive cross-platform community campaigns and represent ZKsync in broader ecosystem initiatives.&#x20;
-* Take responsibility for the success of specific community projects or initiatives.&#x20;
+* Take responsibility for the success of exclusive community projects or initiatives.&#x20;
 * Participate in the voting process for new Matey and Captains.&#x20;
 
 **Privileges:**&#x20;
 
-* Priority involvement in community decision-making processes.&#x20;
-* Leadership in high-level workshops and direct access to exclusive ZKsync ecosystem opportunities.&#x20;
-* A clear pathway to higher leadership roles, including working on special projects that impact the broader ecosystem.&#x20;
+* Involvement in community decision-making processes.&#x20;
+* Leadership in workshops and access to community and ecosystem events and the opportunities.
+* A clear pathway to higher leadership roles on the broader ecosystem.&#x20;
 * TBD
 
 ***
@@ -111,7 +110,7 @@ The Code of Conduct serves as the guide for engaging as a ZKmentor, and it appli
 
 ### **ZK Credo**&#x20;
 
-ZKmentors uphold the values and vision encapsulated in the ZK Credo. This Credo reflects our belief in decentralization, innovation, and a community-driven ecosystem. ZKmentors are not just role models in the ZKsync Discord, but they also help guide and support the entire ZKsync community across all platforms and initiatives. By embracing the ZK Credo, ZKmentors embody a commitment to collaboration, education, and the growth of the ZKsync ecosystem.
+ZKmentors uphold the values and vision encapsulated in the ZK Credo. This Credo reflects our belief in decentralization, innovation, and a community-driven ecosystem. ZKmentors are not just role models in the ZKsync Discord, but they also help guide and support the entire community across all platforms and initiatives. By embracing the ZK Credo, ZKmentors embody a commitment to collaboration, education, and the growth of the ZKsync ecosystem.
 
 ***
 
@@ -188,18 +187,18 @@ Take a look at [Discord Best Practices](https://matterlabs.gitbook.io/zksync-com
 
 * Host and facilitate events, AMAs, or key initiatives across platforms like Discord and social media.
 * Lead discussions to drive engagement and meaningful interactions within the community.
-* Participate actively in weekly or monthly activities and activations.
+* Actively participate in community activities.
 * Mentor Mateys and support their growth within the community.
 * Promote a positive and constructive environment by fostering respectful communication and resolving conflicts diplomatically.
 
 #### **Mateys Expectations**
 
 * Engage actively in discussions on Discord and social media, contributing to a lively and inclusive atmosphere.
-* Participate in weekly or monthly activities and activations.
+* Actively participate in community activities.
 * Assist with onboarding new members, providing support and guidance as they integrate into the community.
 * Promote a positive and constructive environment through respectful engagement and collaboration.
 
-We fully understand that people have a life outside of ZKsync and the ZKmentor program and therefore we do not expect people to spend all their time as a ZKmentor  nor do we recommend it. However, we expect participants to maintain the same activity level throughout. This means that becoming a ZKmentor  isn't an end goal, but it's rather here where the fun begins!
+We fully understand that people have a life outside of ZKsync and the ZKmentor program and therefore we do not expect people to spend all their time as a ZKmentor nor do we recommend it. However, we expect participants to maintain the same activity level throughout. This means that becoming a ZKmentor  isn't an end goal, but it's rather here where the fun begins!
 
 If you’re not able to to dedicate sufficient time to the ZKmentor Program we would suggest you wait before applying until you’re in a position where you have more time to dedicate.
 
