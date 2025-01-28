@@ -6,11 +6,25 @@
 
 * [🤝 Discord Best Practices](the-community/discord-best-practices.md)
 * [🔗 Official Links](the-community/official-links.md)
+* [😎 Community Mods](the-community/zk-mentor.md)
+* [😎 Language Mods](the-community/zk-mentor-1.md)
 
 ## Get Involved
 
 * [🦄 ZK Success](get-involved/zk-success.md)
 * [😎 ZKmentor Program](get-involved/zk-mentor.md)
+* [Games and Campaigns](get-involved/games-and-campaigns.md)
+
+## Community Program
+
+* [Introduction](community-program/introduction.md)
+* [How It Works](community-program/how-it-works.md)
+* [Eligible Roles and Responsibilities](community-program/eligible-roles-and-responsibilities.md)
+* [Activities and Engagement Expectations](community-program/activities-and-engagement-expectations.md)
+* [Rewards Structure](community-program/rewards-structure.md)
+* [How to Get Involved](community-program/how-to-get-involved.md)
+* [FAQs](community-program/faqs.md)
+* [Retroactive Rewards](community-program/retroactive-rewards.md)
 
 ## Security
 
