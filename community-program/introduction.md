@@ -1,8 +1,38 @@
 # Introduction
 
-The ZKsync Community Progrram, planned and managed by Gitcoin, is designed to support and grow the ZKsync ecosystem by recognizing and rewarding active contributors. Through structured rewards, the program encourages meaningful engagement, amplifies campaigns, and strengthens the global community.
+The ZKsync Community Program, managed by Gitcoin, is designed to recognize and reward the active contributors who drive engagement, onboard new users, and strengthen the global community. Through structured incentives, this initiative empowers participants to amplify ecosystem initiatives, participate in meaningful discussions, and help shape ZKsync’s future.
 
-* **Mission:** Build a thriving ZKsync community and ensure consistent engagement in ecosystem initiatives.
-* **Who It’s For**: Community Moderators, Language Moderators, Captains, and Mateys.
-* **What It Offers**: Monthly rewards for eligible contributors who meet program thresholds.
+## Why This Program Matters
 
+ZKsync is built on scalability, decentralization, and innovation, but a thriving ecosystem depends on its community. The ZKsync Community Program creates clear, structured pathways for participation, ensuring that contributions are measurable, impactful, and rewarded. This program lays the foundation for a more collaborative, governance-aligned community, where members don’t just participate but actively shape the network’s evolution.
+
+This six-month program is a foundational step toward building a long-term, self-sustaining community within the ZKsync ecosystem. By structuring participation and aligning incentives, it ensures that contributors play an active role in shaping governance, adoption, and engagement across the Elastic Network. Over time, insights from this program will help define how the community evolves and integrates into ZKsync’s decentralized future.
+
+## Who Manages the Program?
+
+Gitcoin is responsible for executing and overseeing the program, including handling onboarding, reviewing participation, verifying contributions, and distributing rewards fairly and transparently. This ensures a structured process that aligns with the community’s needs while allowing contributors to focus on meaningful engagement.
+
+## Who Can Participate?
+
+The program is open to key community roles, each with distinct responsibilities and ways to contribute:
+
+🔹 Community Moderators – Maintain a welcoming environment, assist users, and facilitate discussions across platforms.
+
+🔹 Captains – Lead community-driven initiatives, mentor members, and support engagement activities.
+
+🔹 Mateys – Participate in campaigns, amplify ecosystem messages, and onboard new users.
+
+## What Does the Program Offer?
+
+Participants who meet engagement and contribution thresholds will receive monthly rewards based on their role, activity level, and impact. The program also provides opportunities to:
+
+🔹 Contribute to ecosystem initiatives and play a role in ZKsync’s expansion.
+
+🔹 Collaborate with fellow contributors, gaining recognition and leadership opportunities.
+
+🔹 Be part of ZKsync’s community evolution, working toward a self-sustaining, governance-aligned model that empowers contributors long-term.
+
+\
+By joining, contributors become an essential part of ZKsync’s journey, ensuring that the Elastic Network continues to grow, innovate, and remain community-driven. 🚀\
+\
+LEARN MORE BLOG POST LINK

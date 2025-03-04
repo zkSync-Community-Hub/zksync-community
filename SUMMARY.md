@@ -19,10 +19,11 @@
 
 * [Introduction](community-program/introduction.md)
 * [How It Works](community-program/how-it-works.md)
+* [How to Get Involved](community-program/how-to-get-involved.md)
+* [Code of Conduct & Compliance](community-program/code-of-conduct-and-compliance.md)
 * [Eligible Roles and Responsibilities](community-program/eligible-roles-and-responsibilities.md)
 * [Activities and Engagement Expectations](community-program/activities-and-engagement-expectations.md)
 * [Rewards Structure](community-program/rewards-structure.md)
-* [How to Get Involved](community-program/how-to-get-involved.md)
 * [FAQs](community-program/faqs.md)
 * [Retroactive Rewards](community-program/retroactive-rewards.md)
 
