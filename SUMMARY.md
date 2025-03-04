@@ -23,6 +23,7 @@
 * [Code of Conduct & Compliance](community-program/code-of-conduct-and-compliance.md)
 * [Eligibility and Onboarding](community-program/eligibility-and-onboarding.md)
 * [Roles and Responsibilities](community-program/eligible-roles-and-responsibilities.md)
+* [Rewards Distribution](community-program/rewards-distribution.md)
 * [Activities and Engagement Expectations](community-program/activities-and-engagement-expectations.md)
 * [Language Channels and Moderators](community-program/language-channels-and-moderators.md)
 * [Reporting of Monthly Activities](community-program/reporting-of-monthly-activities.md)
