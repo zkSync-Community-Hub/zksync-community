@@ -56,11 +56,9 @@ Participants in the program must meet **specific eligibility criteria** based on
 
 • Must demonstrate deep knowledge of ZKsync and its ecosystem, assessed by Discord Admins.
 
-• Must meet one of the following conditions:
-
-&#x20; 1\. Be a Captain with at least three months of experience in the role.
-
-&#x20;2\. Be a current Community Moderator with less than two consecutive terms.
+• Must meet one of the following conditions:\
+1\. Be a Captain with at least three months of experience in the role.\
+2\. Be a current Community Moderator with less than two consecutive terms.
 
 **Evaluation & Renewal:**
 
@@ -106,7 +104,7 @@ Gitcoin will assess eligibility and communicate approvals.
 
 ### 4️⃣ Timelines & Response Times
 
-• Application Review Period: Gitcoin will assess applications within maximum two weeks of submission.
+• Application Review Period: Gitcoin will assess applications within two weeks of submission.
 
 • KYC Completion: Participants must complete KYC verification before being officially onboarded.
 
@@ -115,6 +113,8 @@ Gitcoin will assess eligibility and communicate approvals.
 ### 5️⃣ Next Steps After Onboarding
 
 Once onboarded, participants can:
+
+✔ Join dedicated [ZKsync Discord Server channels](https://join.zksync.dev/).
 
 ✔ Join Squads to collaborate on governance, security, onboarding, and events.
 
