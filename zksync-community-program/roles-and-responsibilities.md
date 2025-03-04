@@ -52,7 +52,7 @@ Captains take on leadership roles within the ZKsync community by **mentoring, or
 
 💰 **4,500 ZK Tokens** per month
 
-📌 **Maximum Rewarded Participants Per Month**: Up to XX
+📌 **Maximum Rewarded Participants Per Month**: Up to 35
 
 🔹 **Expectation**: Consistent participation in mentorship, community initiatives, and ecosystem discussions.
 
@@ -78,6 +78,6 @@ Mateys are active contributors who **engage in community discussions, support on
 
 💰 **2,250 ZK Tokens** per month
 
-📌 **Maximum Rewarded Participants Per Month**: Up to XX
+📌 **Maximum Rewarded Participants Per Month**: Up to 80
 
 🔹 **Expectation**: Active engagement in discussions, campaigns, and structured community activities.

@@ -72,4 +72,4 @@ Language Moderators are responsible for maintaining a welcoming, informed, and e
 
 💰 **Monthly Compensation** (If Eligible): 3,500 ZK Tokens (added to the Captain or Matey monthly compensation).
 
-📌 **Maximum Rewarded Participants Per Month**: Up to XX (maximum 2 language moderators per channel)
+📌 **Maximum Rewarded Participants Per Month**: Up to 16 (maximum 2 Language Moderators per channel)
