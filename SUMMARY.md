@@ -12,7 +12,7 @@
 ## Get Involved
 
 * [🦄 ZK Success](get-involved/zk-success.md)
-* [😎 ZKmentor Program](get-involved/zk-mentor.md)
+* [😎 ZKmentors: Captains and Mateys](get-involved/zk-mentor.md)
 * [Games and Campaigns](get-involved/games-and-campaigns.md)
 
 ## Community Program

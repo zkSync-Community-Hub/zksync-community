@@ -81,3 +81,13 @@ Mateys are active contributors who engage in community discussions, support onbo
 📌 Maximum Participants Per Month: Up to XX
 
 🔹 Expectation: Active engagement in discussions, campaigns, and structured community activities.
+
+***
+
+## Token Distribution & Lock-Up Periods
+
+💰 ZK Tokens earned through the program will be distributed through a dedicated platform provided by Gitcoin.
+
+📌 All distributed tokens will be locked for 40 days to comply with regulatory requirements.
+
+📌 For U.S. residents, tokens will have a 365-day lock-up period to comply with regulatory requirements.
