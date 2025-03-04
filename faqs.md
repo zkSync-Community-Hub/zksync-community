@@ -8,19 +8,19 @@ Below are answers to some of the most common questions about the ZKsync Communit
 
 ### 1️⃣ Who can apply and how do I join?
 
-The program is open to active community members who contribute to the ZKsync ecosystem.
+The program is open to **active community members** who contribute to the ZKsync ecosystem.
 
 • Current Community Moderators, Captains, and Mateys will be onboarded first.
 
 • New participants can apply through an open submission form (to be released after launch).
 
-• Applicants must meet eligibility requirements and complete the onboarding process, including KYC verification.
+• All applicants must meet eligibility requirements and complete the onboarding process, including KYC verification.
 
-📌 More details: Eligibility & Onboarding Process
+📌 More details: [Eligibility & Onboarding Process](community-program/eligibility-and-onboarding.md)
 
 ### 2️⃣ How long will the program last?
 
-The ZKsync Community Program is a six-month initiative designed to reward meaningful contributions and strengthen the community’s role in ecosystem growth and governance.
+The ZKsync Community Program is a **six-month initiative** designed to reward meaningful contributions and strengthen the community’s role in ecosystem growth and governance.
 
 📌 More details: How the Program Works
 
@@ -30,7 +30,7 @@ The ZKsync Community Program is a six-month initiative designed to reward meanin
 
 ### 3️⃣ How are contributions assessed?
 
-Contributions are assessed monthly through a structured self-reporting process:
+Contributions are **assessed monthly through a structured self-reporting process**:
 
 • Participants submit a monthly activity report via a dedicated form.
 
@@ -38,7 +38,7 @@ Contributions are assessed monthly through a structured self-reporting process:
 
 • Contributions must meet minimum engagement thresholds to qualify for rewards.
 
-📌 More details: Monthly Activity Assessment & Verification
+📌 More details: [Monthly Activity Assessment & Verification](community-program/reporting-of-monthly-activities.md)
 
 ### 4️⃣ What happens if I miss activity requirements for a month?
 
@@ -46,7 +46,7 @@ Contributions are assessed monthly through a structured self-reporting process:
 
 • If inactivity continues, they may lose their role and must reapply if they wish to participate again.
 
-📌 More details: Disqualification & Removal Process
+📌 More details: [Code of Conduct & Compliance](community-program/code-of-conduct-and-compliance.md), [Roles and Responsibilities](community-program/eligible-roles-and-responsibilities.md)
 
 ### 5️⃣ Can I switch roles within the program?
 
@@ -56,7 +56,7 @@ Contributions are assessed monthly through a structured self-reporting process:
 
 • A review process will determine whether the applicant qualifies for the new role.
 
-📌 More details: Eligibility Per Role & Responsibilities
+📌 More details: [Eligibility and Onboarding](community-program/eligibility-and-onboarding.md)
 
 ***
 
@@ -72,7 +72,7 @@ Rewards are fixed per role:
 
 • Mateys: 2,250 ZK Tokens
 
-📌 More details: Monthly Rewards & Participant Limits
+📌 More details: [Roles and Responsibilities](community-program/eligible-roles-and-responsibilities.md)
 
 ### 7️⃣ Is the reward amount based on activity level?
 
@@ -90,13 +90,13 @@ No. As long as a participant meets the role’s contribution requirements, they 
 
 • Gitcoin will process and distribute ZK Tokens after verification is complete.
 
-📌 More details: Monthly Activity Assessment & Verification
+📌 More details: [Reward Distribution](community-program/rewards-distribution.md)
 
 ***
 
 ## Program Evolution
 
-### 9️⃣ How does this program interact with governance and future initiatives?
+### 9️⃣ How does this program interact with community governance and future initiatives?
 
 • The ZKsync Community Program is designed to evolve over time with direct community input.
 
@@ -104,17 +104,17 @@ No. As long as a participant meets the role’s contribution requirements, they 
 
 • The long-term goal is to transition the program toward self-sustaining community governance.
 
-📌 More details: Program Governance & Evolution
+📌 More details: [Program Evolution](community-program/program-evolution.md)
 
-### 🔟 How can I provide feedback or suggest improvements?
+### 🔟 How can I provide feedback or suggest improvements to the program?
 
-• Join the Governance Squads to participate in structured discussions about program improvements.
+• Join the Community Governance Squads to participate in structured discussions about program improvements.
 
 • Take part in community surveys that help shape the program’s evolution.
 
 • Engage in feedback sessions with Gitcoin and ZKsync ecosystem stakeholders.
 
-📌 More details: Governance & Evolution
+📌 More details: [Program Evolution](community-program/program-evolution.md)
 
 ***
 
@@ -130,4 +130,4 @@ There are multiple ways to get support:
 
 🔹 Support Email – For technical issues, disputes, or process-related concerns.
 
-📌 More details: Support & Contact Points
+📌 More details: [Support](community-program/support.md)
