@@ -16,7 +16,7 @@ The program is open to **active community members** who contribute to the ZKsync
 
 • All applicants must meet eligibility requirements and complete the onboarding process, including KYC verification.
 
-📌 More details: [Eligibility & Onboarding Process](community-program/eligibility-and-onboarding.md)
+📌 More details: [Eligibility & Onboarding Process](zksync-community-program/eligibility-and-onboarding.md)
 
 ### 2️⃣ How long will the program last?
 
@@ -38,7 +38,7 @@ Contributions are **assessed monthly through a structured self-reporting process
 
 • Contributions must meet minimum engagement thresholds to qualify for rewards.
 
-📌 More details: [Monthly Activity Assessment & Verification](community-program/reporting-of-monthly-activities.md)
+📌 More details: [Monthly Activity Assessment & Verification](zksync-community-program/reporting-of-monthly-activities.md)
 
 ### 4️⃣ What happens if I miss activity requirements for a month?
 
@@ -46,7 +46,7 @@ Contributions are **assessed monthly through a structured self-reporting process
 
 • If inactivity continues, they may lose their role and must reapply if they wish to participate again.
 
-📌 More details: [Code of Conduct & Compliance](community-program/code-of-conduct-and-compliance.md), [Roles and Responsibilities](community-program/eligible-roles-and-responsibilities.md)
+📌 More details: [Code of Conduct & Compliance](zksync-community-program/code-of-conduct-and-compliance.md), [Roles and Responsibilities](zksync-community-program/roles-and-responsibilities.md)
 
 ### 5️⃣ Can I switch roles within the program?
 
@@ -56,7 +56,7 @@ Contributions are **assessed monthly through a structured self-reporting process
 
 • A review process will determine whether the applicant qualifies for the new role.
 
-📌 More details: [Eligibility and Onboarding](community-program/eligibility-and-onboarding.md)
+📌 More details: [Eligibility and Onboarding](zksync-community-program/eligibility-and-onboarding.md)
 
 ***
 
@@ -72,7 +72,7 @@ Rewards are fixed per role:
 
 • Mateys: 2,250 ZK Tokens
 
-📌 More details: [Roles and Responsibilities](community-program/eligible-roles-and-responsibilities.md)
+📌 More details: [Roles and Responsibilities](zksync-community-program/roles-and-responsibilities.md)
 
 ### 7️⃣ Is the reward amount based on activity level?
 
@@ -90,7 +90,7 @@ No. As long as a participant meets the role’s contribution requirements, they 
 
 • Gitcoin will process and distribute ZK Tokens after verification is complete.
 
-📌 More details: [Reward Distribution](community-program/rewards-distribution.md)
+📌 More details: [Reward Distribution](zksync-community-program/rewards-distribution.md)
 
 ***
 
@@ -104,7 +104,7 @@ No. As long as a participant meets the role’s contribution requirements, they 
 
 • The long-term goal is to transition the program toward self-sustaining community governance.
 
-📌 More details: [Program Evolution](community-program/program-evolution.md)
+📌 More details: [Program Evolution](zksync-community-program/program-evolution.md)
 
 ### 🔟 How can I provide feedback or suggest improvements to the program?
 
@@ -114,7 +114,7 @@ No. As long as a participant meets the role’s contribution requirements, they 
 
 • Engage in feedback sessions with Gitcoin and ZKsync ecosystem stakeholders.
 
-📌 More details: [Program Evolution](community-program/program-evolution.md)
+📌 More details: [Program Evolution](zksync-community-program/program-evolution.md)
 
 ***
 
@@ -130,4 +130,4 @@ There are multiple ways to get support:
 
 🔹 Support Email – For technical issues, disputes, or process-related concerns.
 
-📌 More details: [Support](community-program/support.md)
+📌 More details: [Support](zksync-community-program/support.md)

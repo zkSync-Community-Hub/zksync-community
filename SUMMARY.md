@@ -15,21 +15,21 @@
 * [😎 ZKmentors: Captains and Mateys](get-involved/zk-mentor.md)
 * [Games and Campaigns](get-involved/games-and-campaigns.md)
 
-## Community Program
+## ZKsync Community Program
 
-* [Introduction](community-program/introduction.md)
-* [How It Works](community-program/how-it-works.md)
-* [How to Get Involved](community-program/how-to-get-involved.md)
-* [Code of Conduct & Compliance](community-program/code-of-conduct-and-compliance.md)
-* [Eligibility and Onboarding](community-program/eligibility-and-onboarding.md)
-* [Roles and Responsibilities](community-program/eligible-roles-and-responsibilities.md)
-* [Language Channels and Moderators](community-program/language-channels-and-moderators.md)
-* [Rewards Distribution](community-program/rewards-distribution.md)
-* [Activities and Engagement Expectations](community-program/activities-and-engagement-expectations.md)
-* [Reporting of Monthly Activities](community-program/reporting-of-monthly-activities.md)
-* [Support](community-program/support.md)
-* [Program Evolution](community-program/program-evolution.md)
-* [Retroactive Rewards](community-program/retroactive-rewards.md)
+* [Introduction](zksync-community-program/introduction.md)
+* [How It Works](zksync-community-program/how-it-works.md)
+* [How to Get Involved](zksync-community-program/how-to-get-involved.md)
+* [Code of Conduct and Compliance](zksync-community-program/code-of-conduct-and-compliance.md)
+* [Eligibility and Onboarding](zksync-community-program/eligibility-and-onboarding.md)
+* [Roles and Responsibilities](zksync-community-program/roles-and-responsibilities.md)
+* [Language Channels and Moderators](zksync-community-program/language-channels-and-moderators.md)
+* [Rewards Distribution](zksync-community-program/rewards-distribution.md)
+* [Activities and Engagement Expectations](zksync-community-program/activities-and-engagement-expectations.md)
+* [Reporting of Monthly Activities](zksync-community-program/reporting-of-monthly-activities.md)
+* [Program Evolution](zksync-community-program/program-evolution.md)
+* [Support](zksync-community-program/support.md)
+* [Retroactive Rewards](zksync-community-program/retroactive-rewards.md)
 
 ***
 
