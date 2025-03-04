@@ -22,11 +22,17 @@
 * [How to Get Involved](community-program/how-to-get-involved.md)
 * [Code of Conduct & Compliance](community-program/code-of-conduct-and-compliance.md)
 * [Eligibility and Onboarding](community-program/eligibility-and-onboarding.md)
-* [Roles and Responsibilities](community-program/roles-and-responsibilities.md)
+* [Roles and Responsibilities](community-program/eligible-roles-and-responsibilities.md)
 * [Activities and Engagement Expectations](community-program/activities-and-engagement-expectations.md)
-* [Rewards Structure](community-program/rewards-structure.md)
-* [FAQs](community-program/faqs.md)
+* [Language Channels and Moderators](community-program/language-channels-and-moderators.md)
+* [Reporting of Monthly Activities](community-program/reporting-of-monthly-activities.md)
+* [Support](community-program/support.md)
+* [Program Evolution](community-program/program-evolution.md)
 * [Retroactive Rewards](community-program/retroactive-rewards.md)
+
+***
+
+* [FAQs](faqs.md)
 
 ## Security
 
