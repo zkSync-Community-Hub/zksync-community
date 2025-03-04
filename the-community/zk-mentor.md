@@ -37,15 +37,9 @@ Community Moderators are dedicated individuals responsible for maintaining a vib
 
 ***
 
-## **Benefits of Being a Language Moderator**
 
-* **Recognition**: Be a central figure in the ZKsync community, valued for maintaining its vibrancy and integrity.
-* **Skill Development**: Build expertise in community management, conflict resolution, and blockchain-related knowledge.
-* **Networking**: Collaborate with key stakeholders, community leaders, and ZKsync partners.
 
-***
-
-## **Community Mods Expectations and Code of Conduct**
+**Community Mods Expectations and Code of Conduct**
 
 Community Moderators are expected to:
 
