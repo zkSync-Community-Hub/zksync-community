@@ -1,18 +1,18 @@
 # Eligibility and Onboarding
 
-The ZKsync Community Program is structured to ensure that active and engaged community members have a clear path to contribute and be rewarded. Below is a breakdown of the eligibility criteria for each role and the onboarding process required to join the program.
+The **ZKsync Community Program** is structured to ensure that active and engaged community members have a **clear path to contribute and be rewarded.**
 
 ***
 
 ## Eligibility Per Role
 
-Participants in the program must meet specific eligibility criteria based on the role they wish to take on. Each role comes with unique responsibilities and expectations for contributing to the ZKsync ecosystem.
+Participants in the program must meet **specific eligibility criteria** based on the role they wish to take on. Each role comes with unique responsibilities and expectations for contributing to the ZKsync ecosystem.
 
-### Matey
+### 🏴‍☠️ Matey
 
-#### Eligibility Criteria:
+**Eligibility Criteria:**
 
-• Active in the ZKsync community for at least one month.
+• Active in the ZKsync Discord and community for at least one month.
 
 • Demonstrated engagement through meaningful contributions (e.g., participation in campaigns, onboarding new users, supporting discussions).
 
@@ -20,9 +20,9 @@ Participants in the program must meet specific eligibility criteria based on the
 
 • Must hold the Verified Level 2 role on Discord.
 
-Evaluation & Renewal:
+**Evaluation & Renewal:**
 
-#### • Matey roles are monthly-renewed, with no limit on consecutive terms.
+• Matey roles are monthly-renewed, with no limit on consecutive terms.
 
 • If performance expectations are not met for one month, a probation period begins, and no rewards are distributed.
 
@@ -30,17 +30,17 @@ Evaluation & Renewal:
 
 • Every two months, the 10 lowest-performing Mateys will have their role revoked. They may reapply after a minimum two-month break.
 
-### Captain
+### ⚓️ Captain
 
-#### Eligibility Criteria:
+**Eligibility Criteria:**
 
-• Must have held the Matey role for at least three months.
+• Must have held the Matey role for at least three consecutive months.
 
 • Proven track record of leadership and community engagement.
 
 • Must be nominated and endorsed by at least two Captains or Discord Admins.
 
-#### Evaluation & Renewal:
+**Evaluation & Renewal:**
 
 • Captain roles are monthly-renewed, with no limit on consecutive terms.
 
@@ -48,25 +48,25 @@ Evaluation & Renewal:
 
 • Failure to meet expectations for two consecutive months results in a demotion back to the Matey role.
 
-### Community Moderator
+### 🧑‍🚒 Community Moderator
 
-#### Eligibility Criteria:
+**Eligibility Criteria:**
 
 • Candidates apply through a dedicated form.
 
+• Must demonstrate deep knowledge of ZKsync and its ecosystem, assessed by Discord Admins.
+
 • Must meet one of the following conditions:
 
-• Be a Captain with at least three months of experience in the role.
+&#x20; 1\. Be a Captain with at least three months of experience in the role.
 
-• Be a current Community Moderator with less than two consecutive terms.
+&#x20;2\. Be a current Community Moderator with less than two consecutive terms.
 
-• Must demonstrate deep knowledge of ZKsync, assessed by Discord Admins.
-
-#### Evaluation & Renewal:
+**Evaluation & Renewal:**
 
 • Community Moderators serve six-month terms.
 
-• Eligible for a maximum of three consecutive terms (must skip a term after three terms).
+• Eligible for a maximum of two consecutive terms (must skip at least a term after two terms).
 
 • Immediate removal for serious violations; feedback may be provided before removal.
 

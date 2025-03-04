@@ -1,6 +1,6 @@
 # How It Works
 
-The **ZKsync Community Program** is designed to recognize, reward, and structure community participation, ensuring that active contributors are fairly compensated for their engagement and impact. By aligning incentives with meaningful contributions, the program strengthens the community’s role in ecosystem expansion, education, and governance participation.
+The **ZKsync Community Program** is designed to **recognize, reward, and structure community participation**, ensuring that active contributors are fairly compensated for their engagement and impact. By **aligning incentives with meaningful contributions**, the program strengthens the community’s role in ecosystem expansion, education, and governance participation.
 
 ***
 

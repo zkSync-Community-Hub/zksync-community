@@ -1,6 +1,6 @@
 # How to Get Involved
 
-The **ZKsync Community Program** is open to dedicated community members who want to actively contribute to the ecosystem while being recognized and rewarded for their efforts. Whether you’re a long-time participant or new to the ZKsync community, there are clear pathways to apply, onboard, and grow within the program.
+The **ZKsync Community Program** is open to dedicated community members who want to a**ctively contribute to the ecosystem while being recognized and rewarded** for their efforts. Whether you’re a long-time participant or new to the ZKsync community, there are clear pathways to apply, onboard, and grow within the program.
 
 ***
 
