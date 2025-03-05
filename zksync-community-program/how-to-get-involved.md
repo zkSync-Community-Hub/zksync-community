@@ -16,7 +16,7 @@ The program is designed for community members who are passionate about ZKsync an
 
 ### 🔹 New Applicants
 
-• Join the [ZKsync Discord Server](https://join.zksync.dev/).
+• **Join the** [**ZKsync Discord Server**](https://join.zksync.dev/).
 
 • New Community members and those who have already contributed but are not yet in an official role can apply for open positions.
 
@@ -46,7 +46,7 @@ Each role has specific eligibility criteria based on contributions, engagement, 
 
 ### 2️⃣ Submit Your Application
 
-**Following the \[LINK]** (available on March 7), applicants must:
+**Following the \[**_**LINK available on March 7**_**],** applicants must:
 
 ✔ **Complete the application form** with the required details.
 

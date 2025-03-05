@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Program Evolution
 
 The **ZKsync Community Program** is not just about rewarding contributions, it is **designed to be community-driven, transparent, and adaptable**. Over the course of six months, community members will actively contribute to shape the program’s future, helping refine its structure, ensure fairness, and build a sustainable model for long-term engagement.

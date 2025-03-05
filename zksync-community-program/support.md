@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Support
 
 The **ZKsync Community Program** is committed to providing clear and **accessible support** for all participants. Whether you have questions about your role, rewards, or program processes, multiple support channels are available to ensure you receive the help you need.

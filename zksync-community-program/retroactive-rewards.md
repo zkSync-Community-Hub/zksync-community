@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Retroactive Rewards
 
 ### Why Retroactive Incentives?

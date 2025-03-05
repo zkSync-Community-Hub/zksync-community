@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # FAQs
 
 Below are answers to some of the most common questions about the ZKsync Community Program. If your question isn’t covered here, check the ZKsync Community Hub or reach out via the dedicated Discord support channel.

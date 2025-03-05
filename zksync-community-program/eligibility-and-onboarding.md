@@ -10,7 +10,7 @@ Participants in the program must meet **specific eligibility criteria** based on
 
 ### 🏴‍☠️ Matey
 
-**Eligibility Criteria:**
+#### **Eligibility Criteria:**
 
 • Active in the ZKsync Discord and community for at least one month.
 
@@ -20,7 +20,7 @@ Participants in the program must meet **specific eligibility criteria** based on
 
 • Must hold the Verified Level 2 role on Discord.
 
-**Evaluation & Renewal:**
+#### **Evaluation & Renewal:**
 
 • Matey roles are monthly-renewed, with no limit on consecutive terms.
 
@@ -32,7 +32,7 @@ Participants in the program must meet **specific eligibility criteria** based on
 
 ### ⚓️ Captain
 
-**Eligibility Criteria:**
+#### **Eligibility Criteria:**
 
 • Must have held the Matey role for at least three consecutive months.
 
@@ -40,7 +40,7 @@ Participants in the program must meet **specific eligibility criteria** based on
 
 • Must be nominated and endorsed by at least two Captains or Discord Admins.
 
-**Evaluation & Renewal:**
+#### **Evaluation & Renewal:**
 
 • Captain roles are monthly-renewed, with no limit on consecutive terms.
 
@@ -50,7 +50,7 @@ Participants in the program must meet **specific eligibility criteria** based on
 
 ### 🧑‍🚒 Community Moderator
 
-**Eligibility Criteria:**
+#### **Eligibility Criteria:**
 
 • Candidates apply through a dedicated form.
 
@@ -60,7 +60,7 @@ Participants in the program must meet **specific eligibility criteria** based on
 1\. Be a Captain with at least three months of experience in the role.\
 2\. Be a current Community Moderator with less than two consecutive terms.
 
-**Evaluation & Renewal:**
+#### **Evaluation & Renewal:**
 
 • Community Moderators serve six-month terms.
 

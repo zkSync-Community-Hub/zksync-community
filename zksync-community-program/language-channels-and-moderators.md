@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Language Channels and Moderators
 
 The **ZKsync Community Program** recognizes the importance of **global accessibility and inclusivity**. As ZKsync’s ecosystem expands, language-specific community channels serve as vital hubs for engagement, education, and onboarding for non-English-speaking users. To ensure these channels remain active, informative, and welcoming, the program includes **Language Moderators**, a specialized role dedicated to supporting regional communities.

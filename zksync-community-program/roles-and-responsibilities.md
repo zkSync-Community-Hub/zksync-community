@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Roles and Responsibilities
 
 The **ZKsync Community Program** is designed to **reward meaningful contributions** by recognizing active community members who engage, educate, and support ecosystem growth. Each role within the program comes with specific responsibilities, expectations, and structured rewards.
