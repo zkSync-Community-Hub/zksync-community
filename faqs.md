@@ -26,7 +26,7 @@ The program is open to **active community members** who contribute to the ZKsync
 
 The ZKsync Community Program is a **six-month initiative** designed to reward meaningful contributions and strengthen the community’s role in ecosystem growth and governance.
 
-📌 More details: How the Program Works
+📌 More details: [How the Program Works](zksync-community-program/how-it-works.md)
 
 ***
 

@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Activities and Engagement Expectations
 
 The **ZKsync Community Program** is structured around **meaningful engagement** that contributes to the growth and sustainability of the ecosystem. Participants are expected to take part in a variety of **activities that enhance user onboarding, drive discussions, amplify key initiatives, and support governance education**.

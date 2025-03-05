@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Support
 
 The **ZKsync Community Program** is committed to providing clear and **accessible support** for all participants. Whether you have questions about your role, rewards, or program processes, multiple support channels are available to ensure you receive the help you need.
@@ -18,7 +14,7 @@ Participants can get support through the following channels:
 
 ✔ **Gitcoin Representatives** – Gitcoin, as the program manager, will be available on Discord to address structural, onboarding, and reward distribution concerns.
 
-✔ Community Moderators & Discord Admins – Available on Discord to help with general program guidance, engagement expectations, and dispute resolution regarding program participation.
+✔ **Community Moderators & Discord Admins** – Available on Discord to help with general program guidance, engagement expectations, and dispute resolution regarding program participation.
 
 ***
 

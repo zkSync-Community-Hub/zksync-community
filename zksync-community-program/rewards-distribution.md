@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Rewards Distribution
 
 The **ZKsync Community Program** is designed to be **transparent and meritocratic,** ensuring that rewards are tied directly to participation and impact.&#x20;

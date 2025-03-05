@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Reporting of Monthly Activities
 
 The **ZKsync Community Program** operates on a **structured monthly assessment process** to ensure that all rewards are fairly distributed based on actual contributions. This process is designed to maintain transparency, accountability, and fairness in how active participants are recognized and compensated.
