@@ -1,14 +1,10 @@
----
-hidden: true
----
-
 # Roles and Responsibilities
 
 The **ZKsync Community Program** is designed to **reward meaningful contributions** by recognizing active community members who engage, educate, and support ecosystem growth. Each role within the program comes with specific responsibilities, expectations, and structured rewards.
 
 ***
 
-## Community Moderators
+## Community Moderators 💬
 
 ### Role Overview:
 
@@ -36,7 +32,7 @@ Community Moderators ensure a **welcoming, informative, and constructive environ
 
 ***
 
-## Captains
+## Captains ⚓
 
 ### Role Overview:
 
@@ -62,7 +58,7 @@ Captains take on leadership roles within the ZKsync community by **mentoring, or
 
 ***
 
-## Mateys
+## Mateys 🦜
 
 ### Role Overview:
 
