@@ -1,3 +1,23 @@
+---
+icon: people-roof
+cover: ../.gitbook/assets/1500x500 (1).png
+coverY: 43
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Introduction
 
 The **ZKsync Community Program**, funded by ZKsync Foundation and managed by Gitcoin, is designed to **recognize and reward** the active contributors who drive engagement, onboard new users, and strengthen the global community. Through **structured incentives**, this initiative empowers participants to amplify ecosystem initiatives, participate in meaningful discussions, and help **shape ZKsync’s future**.
