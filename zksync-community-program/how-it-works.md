@@ -26,7 +26,7 @@ The total allocation is split into **two categories**:
 
 ✅ **50% for Proactive Incentives** – Distributed monthly to eligible community members who actively contribute through engagement, campaigns, and structured activities.
 
-✅ [**50% for Retroactive Rewards**](retroactive-rewards.md) – Designed to recognize past contributions that have helped shape and grow the ZKsync ecosystem.
+✅ **50% for Retroactive Rewards** – Designed to recognize past contributions that have helped shape and grow the ZKsync ecosystem.
 
 This balanced approach ensures that contributors are rewarded for both past efforts and for ongoing engagement in shaping ZKsync’s future.
 
