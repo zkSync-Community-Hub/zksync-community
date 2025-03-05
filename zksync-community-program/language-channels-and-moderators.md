@@ -64,7 +64,7 @@ Language Moderators are responsible for maintaining a welcoming, informed, and e
 ✔ Encourage community participation and organize regional engagement initiatives.\
 
 
-#### Conditions for Rewards:
+Conditions for Rewards:
 
 ✔ Language Moderators are only compensated if their channel meets the monthly activity threshold set by Gitcoin.
 
