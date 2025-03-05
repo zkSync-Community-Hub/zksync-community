@@ -32,7 +32,5 @@ Participants who meet engagement and contribution thresholds will receive **mont
 
 🔹 Be part of **ZKsync’s community evolution**, working toward a self-sustaining, governance-aligned model that empowers contributors long-term.
 
-\
-By joining, contributors become an essential part of ZKsync’s journey, ensuring that the Elastic Network continues to grow, innovate, and remain community-driven. 🚀
+## ➡ [**Community Program Blog Post**](https://zksync.mirror.xyz/ABCMvRKrYVEa3dzqqHakAGFF7QwzTSUt5xQh3Ey7i9k)
 
-#### ➡ [**Community Program Blog Post**](https://zksync.mirror.xyz/ABCMvRKrYVEa3dzqqHakAGFF7QwzTSUt5xQh3Ey7i9k)

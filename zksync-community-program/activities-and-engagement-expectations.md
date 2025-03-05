@@ -66,7 +66,7 @@ To ensure fairness and transparency, all engagement activities will be **evaluat
 
 
 
-📌 Important:
+### 📌 Important:
 
 • All roles must meet **minimum activity thresholds to qualify for rewards** each month. Gitcoin will set the minimum activity thresholds.
 

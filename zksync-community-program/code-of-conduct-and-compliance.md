@@ -1,4 +1,4 @@
-# Code of Conduct & Compliance
+# Code of Conduct and Compliance
 
 The **ZKsync Community Program** is built on the principles of **collaboration, inclusivity, and constructive engagement**. Participants play a crucial role in building a welcoming, ethical, and growth-driven environment that aligns with ZKsync’s broader values.
 
@@ -147,5 +147,3 @@ The ZKsync Community Program is not just about rewards: it’s about building a 
 ✔ **Respect** and uphold decentralized governance principles.
 
 ✔ **Take part** in shaping the long-term sustainability of the program.
-
-This is more than just an incentive program—it’s an opportunity to lead, collaborate, and help define the future of the ZKsync ecosystem.

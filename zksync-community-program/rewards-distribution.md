@@ -44,14 +44,10 @@ After the review is complete, **rewards are distributed** monthly.
 
 2️⃣ **Rewards are fixed per role**; if a participant meets the role’s minimum contribution requirements, they receive the full reward for that role.
 
-3️⃣ If more contributors qualify than the available spots, **selection will be based on**:
-
-• Quality of engagement
-
-• Impact of contributions
-
-• Consistency in fulfilling role expectations
-
+3️⃣ If more contributors qualify than the available spots, **selection will be based on**:\
+• Quality of engagement\
+• Impact of contributions\
+• Consistency in fulfilling role expectations\
 • Prioritizing contributors who demonstrate sustained, high-quality involvement
 
 4️⃣ If fewer contributors qualify than the available spots, only the ones meeting the minimum contribution thresholds will receive rewards.
