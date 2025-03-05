@@ -5,7 +5,7 @@ description: >-
   joining the ZKmentor Program!
 ---
 
-# 😎 ZKmentor Program
+# 😎 ZKmentors: Captains and Mateys
 
 ## Meet the ZKmentors&#x20;
 
@@ -64,7 +64,7 @@ Individuals who have actively contributed for several months and demonstrated pr
 
 * Monthly featured participation in community calls.&#x20;
 * Access to exclusive community and ecosystem events and the opportunities.
-* **TBD**
+* Can participate to the ZKsync Community Program
 
 ### **Captain**
 
@@ -86,7 +86,7 @@ Long term contributors showcasing leadership within the ZKsync ecosystem.&#x20;
 * Involvement in community decision-making processes.&#x20;
 * Leadership in workshops and access to community and ecosystem events and the opportunities.
 * A clear pathway to higher leadership roles on the broader ecosystem.&#x20;
-* TBD
+* Can participate to the ZKsync Community Program
 
 ***
 
