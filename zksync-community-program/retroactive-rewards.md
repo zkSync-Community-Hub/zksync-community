@@ -6,7 +6,7 @@ While the **ZKsync Community Program** primarily focuses on proactive incentives
 
 ### Who is Eligible?
 
-Retroactive incentives will be distributed to community members who **actively contributed before the launch of the program**, specifically those holding the following **roles** in 2024:
+Retroactive incentives will be distributed to community members who **actively contributed before the launch of the ZKsync Community Program**, specifically those holding the following **roles** in 2024:
 
 🔹 Community Moderator
 
