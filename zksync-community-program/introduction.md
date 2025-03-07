@@ -1,11 +1,11 @@
 ---
 icon: people-roof
-cover: ../.gitbook/assets/1500x500 (1).png
+cover: ../.gitbook/assets/2_1 (1).png
 coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
