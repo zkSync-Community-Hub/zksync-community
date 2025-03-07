@@ -1,7 +1,7 @@
 ---
 icon: people-roof
 cover: ../.gitbook/assets/1500x500 (1).png
-coverY: 43
+coverY: 0
 layout:
   cover:
     visible: true
