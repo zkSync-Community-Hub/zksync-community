@@ -4,7 +4,9 @@ The **ZKsync Community Program** is designed to **reward meaningful contribution
 
 ***
 
-## Community Moderators 💬
+<details>
+
+<summary>Community Moderators 💬</summary>
 
 ### Role Overview:
 
@@ -30,9 +32,11 @@ Community Moderators ensure a **welcoming, informative, and constructive environ
 
 🔹 **Expectation**: Active daily engagement, timely responses, and moderation across core channels, daily support to the Community Program Manager (Gitcoin).
 
-***
+</details>
 
-## Captains ⚓
+<details>
+
+<summary>Captains ⚓</summary>
 
 ### Role Overview:
 
@@ -56,9 +60,11 @@ Captains take on leadership roles within the ZKsync community by **mentoring, or
 
 🔹 **Expectation**: Consistent participation in mentorship, community initiatives, and ecosystem discussions.
 
-***
+</details>
 
-## Mateys 🦜
+<details>
+
+<summary>Mateys 🦜 and Trial Mateys</summary>
 
 ### Role Overview:
 
@@ -81,3 +87,5 @@ Mateys are active contributors who **engage in community discussions, support on
 📌 **Maximum Rewarded Participants Per Month**: Up to 80
 
 🔹 **Expectation**: Active engagement in discussions, campaigns, and structured community activities.
+
+</details>

@@ -44,7 +44,9 @@ This balanced approach ensures that contributors are rewarded for both past effo
 
 The program is structured around three key roles, each with specific responsibilities:
 
-### 🔹 Community Moderators
+<details>
+
+<summary>🔹 Community Moderators</summary>
 
 • Maintain and moderate a welcoming and informed environment across Discord and other community platforms.
 
@@ -54,7 +56,11 @@ The program is structured around three key roles, each with specific responsibil
 
 • Support Gitcoin on managing the Community Program.
 
-### 🔹 Captains
+</details>
+
+<details>
+
+<summary>🔹 Captains</summary>
 
 • Lead discussions, mentor community members, and support engagement initiatives.
 
@@ -62,10 +68,16 @@ The program is structured around three key roles, each with specific responsibil
 
 • Amplify key ecosystem announcements and provide ongoing support for ecosystem growth.
 
-### 🔹 Mateys
+</details>
+
+<details>
+
+<summary>🔹 Mateys and Trial Mateys</summary>
 
 • Participate in campaigns, engagement activities, and awareness efforts.
 
 • Amplify important ecosystem messages through content creation and discussions.
 
 • Assist with user onboarding, guiding newcomers into the ZKsync ecosystem.
+
+</details>

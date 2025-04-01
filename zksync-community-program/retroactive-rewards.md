@@ -20,13 +20,13 @@ Retroactive incentives will be distributed to community members who **actively c
 
 Contributions from January to December 2024 are evaluated based on several key factors:&#x20;
 
-* **Security (Anti Spam / Scam) efforts**: Helping secure Discord channels, monitoring for suspicious activity, and supporting anti-scam processes.
+* **Anti Spam / Scam efforts**: Helping secure Discord channels, monitoring for suspicious activity, and supporting anti-scam processes.
 * **Community support**: Actively assisting and guiding other members in Discord.
 * **Engagement**: Participation in discussions and initiatives in Discord language channels and general channels.
 * **Impact**: Meaningful contributions that have supported the growth of the ecosystem.
 * **Alignment** with role expectations.
 
-Contributions to **security** had the greatest weight, followed by **community support**,  **engagement** in language channels and then in the general channel.
+Contributions to **Anti Spam/Scam** had the greatest weight, followed by **community support**,  **engagement** in language channels and then in the general channel.
 
 **Rewards are not automatically assigned**: eligibility is determined based on a structured review process conducted by Gitcoin.
 

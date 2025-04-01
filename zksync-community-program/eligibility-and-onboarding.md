@@ -8,7 +8,9 @@ The **ZKsync Community Program** is structured to ensure that active and engaged
 
 Participants in the program must meet **specific eligibility criteria** based on the role they wish to take on. Each role comes with unique responsibilities and expectations for contributing to the ZKsync ecosystem.
 
-### 🏴‍☠️ Matey
+<details>
+
+<summary>🏴‍☠️ Matey</summary>
 
 #### **Eligibility Criteria:**
 
@@ -30,7 +32,11 @@ Participants in the program must meet **specific eligibility criteria** based on
 
 • Every two months, the 10 lowest-performing Mateys will have their role revoked. They may reapply after a minimum two-month break.
 
-### ⚓️ Captain
+</details>
+
+<details>
+
+<summary>⚓️ Captain</summary>
 
 #### **Eligibility Criteria:**
 
@@ -48,7 +54,11 @@ Participants in the program must meet **specific eligibility criteria** based on
 
 • Failure to meet expectations for two consecutive months results in a demotion back to the Matey role.
 
-### 🧑‍🚒 Community Moderator
+</details>
+
+<details>
+
+<summary>🧑‍🚒 Community Moderator</summary>
 
 #### **Eligibility Criteria:**
 
@@ -68,49 +78,73 @@ Participants in the program must meet **specific eligibility criteria** based on
 
 • Immediate removal for serious violations; feedback may be provided before removal.
 
+</details>
+
+<details>
+
+<summary>🆕 Everyone Else – How to Join as a Trial Matey</summary>
+
+If you're not currently a Moderator, Captain, or Matey, you can still participate in the ZKsync Community Program by applying for a **Trial Matey** role.
+
+**To be eligible for Trial Matey status:**
+
+* 🔹 **Be active in the ZKsync community for at least one month**, including participation on Discord, supporting other members, and engaging in ecosystem initiatives.
+* 🔹 **Demonstrate consistent helpfulness and a positive attitude**, aligned with the ZK Credo and Community Code of Conduct.
+* 🔹 **Submit the onboarding form** \[[LINK](https://gitcoin.notion.site/1adf3309710d8024bbf3e1ec06762a83?pvs=105)] to express your interest in joining the program.
+
+**Important Notes:**
+
+* The **Trial Matey** role is **specific to participation in the Community Program** and allows you to be considered for monthly rewards like other roles.
+* If your participation falls below expectations, the **Trial role may be revoked** at any time during the program cycle.
+* You can become an **official Matey** following the [**Matey eligibility criteria**](eligibility-and-onboarding.md#matey).
+
+</details>
+
 ***
 
 ## Onboarding Process
 
-Once participants meet the eligibility criteria, they must complete the onboarding process before officially joining the program.
+Once participants meet the eligibility criteria, they must complete the onboarding process before officially joining the program:  \[[**LINK**](https://gitcoin.notion.site/1adf3309710d8024bbf3e1ec06762a83?pvs=105)].
 
-### 1️⃣ Eligibility Assessment
+<details>
 
-Before entering the program, applicants must meet the eligibility requirements for their respective roles. This includes:
+<summary>Steps in the Onboarding Journey</summary>
 
-• Community engagement history.
-
-• Role nomination (where applicable).
-
-• Participation in ecosystem activities.
-
-Gitcoin will assess eligibility and communicate approvals.
-
-### 2️⃣ Steps in the Onboarding Journey
-
-1\. Application Submission – Participants fill out the official onboarding form to express interest. >> LINK
+1\. Application Submission – Participants fill out the official onboarding form to express interest  \[[LINK](https://gitcoin.notion.site/1adf3309710d8024bbf3e1ec06762a83?pvs=105)].
 
 2\. Eligibility Review – Gitcoin evaluates applications based on engagement history and community contributions.
 
 3\. Approval & Role Assignment – Once approved, participants receive their designated role and access to structured activities.
 
-### 3️⃣ KYC Process & Why It’s Required
+</details>
 
-• All participants must complete a Know Your Customer (KYC) verification as part of the onboarding process.
+<details>
+
+<summary>KYC Process &#x26; Why It’s Required</summary>
+
+• All participants eligible to receive rewards must complete a Know Your Customer (KYC) verification as part of the onboarding process.
 
 • KYC is necessary to ensure fair and transparent distribution of rewards and compliance with regulations.
 
 • Details on the specific KYC requirements and verification steps will be provided during onboarding.
 
-### 4️⃣ Timelines & Response Times
+</details>
 
-• Application Review Period: Gitcoin will assess applications within two weeks of submission.
+<details>
 
-• KYC Completion: Participants must complete KYC verification before being officially onboarded.
+<summary>Timelines &#x26; Response Times</summary>
 
-• Final Confirmation: Once eligibility and KYC are confirmed, participants can start contributing immediately.
+• **Application Review Period:** Gitcoin will review all submitted applications and determine eligibility by the first day of the following month.
 
-### 5️⃣ Next Steps After Onboarding
+• **KYC Completion**: At the end of each month, participants selected to receive rewards will be required to complete KYC verification. Those eligible will receive an email with instructions to begin the process.
+
+</details>
+
+<details>
+
+<summary>Next Steps After Onboarding</summary>
+
+###
 
 Once onboarded, participants can:
 
@@ -123,3 +157,5 @@ Once onboarded, participants can:
 ✔ Participate in campaigns and structured activities to contribute meaningfully.
 
 ✔ Track and report their contributions using the self-reporting form to qualify for rewards.
+
+</details>

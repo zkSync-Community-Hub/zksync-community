@@ -6,7 +6,9 @@ The **ZKsync Community Program** is structured around **meaningful engagement** 
 
 ## Key Engagement Activities
 
-### 1️⃣ Hosting Discussions & Events
+<details>
+
+<summary>Hosting Discussions &#x26; Events</summary>
 
 Community contributors are encouraged to **organize and participate** in discussions, Twitter Spaces, AMAs, and other events that educate and engage users.
 
@@ -14,13 +16,21 @@ Community contributors are encouraged to **organize and participate** in discuss
 
 ✔ Mateys – **Join and participate** in events, ask thoughtful questions, and help sustain an active discussion.
 
-### 2️⃣ Engaging in Campaigns & Awareness Efforts
+</details>
+
+<details>
+
+<summary>Engaging in Campaigns &#x26; Awareness Efforts</summary>
 
 Participants are expected to amplify ZKsync ecosystem initiatives, help **spread awareness** about new developments, and contribute to campaigns that highlight key ecosystem updates, governance votes, and new ZK Chains & dApps.
 
 ✔ Mateys & Captains – **Participate in awareness campaigns** by sharing educational content, creating discussion threads, and supporting marketing initiatives.
 
-### 3️⃣ Onboarding & Educating New Users
+</details>
+
+<details>
+
+<summary>Onboarding &#x26; Educating New Users</summary>
 
 A strong community is built on **continuous onboarding and knowledge-sharing**. Contributors play a crucial role in helping new users navigate the ZKsync ecosystem and access educational resources.
 
@@ -28,11 +38,17 @@ A strong community is built on **continuous onboarding and knowledge-sharing**. 
 
 ✔ Captains & Mateys – **Assist with onboarding** by creating easy-to-follow guides, sharing updates, and mentoring new members.
 
-### 4️⃣ Supporting Community Governance Discussions & Squads
+</details>
 
-Participants are encouraged to **engage in community governance discussions** in the Discord channels and provide input on the evolution of community roles, fairness in incentives, and new ecosystem initiatives.
+<details>
+
+<summary>Participate to Squads</summary>
+
+Participants are encouraged to **engage in community  discussions** in the Discord channels and provide input on the evolution of community roles, fairness in incentives, and new ecosystem initiatives.
 
 ✔ All roles – Participate in **Community governance related Squads** to discuss improvements, raise concerns, and propose solutions.
+
+</details>
 
 ***
 
@@ -48,7 +64,7 @@ Current Squads can Include:
 
 ✔ **Events Squad** – Organizing community calls, events, and AMAs,.
 
-✔ **Security Squad** – Ensuring community security and addressing scam awareness.
+✔ **Anti Spam Squad** – Ensuring community security and addressing scam awareness.
 
 By actively participating in Squads, contributors help ensure the program remains dynamic, effective, and community-driven.
 
@@ -66,7 +82,7 @@ To ensure fairness and transparency, all engagement activities will be **evaluat
 
 
 
-### 📌 Important:
+## 📌 Important:
 
 • All roles must meet **minimum activity thresholds to qualify for rewards** each month. Gitcoin will set the minimum activity thresholds.
 

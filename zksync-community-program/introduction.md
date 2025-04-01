@@ -42,6 +42,8 @@ The program is open to key community roles, each with distinct responsibilities 
 
 🔹 **Mateys** – Participate in campaigns, amplify ecosystem messages, and onboard new users.
 
+🔹 **Everyone else** (**Trial Mateys)** – Community members not yet assigned a role can apply to join the program as trial Mateys by showing at least one month of active, meaningful participation.
+
 ## What Does the Program Offer?
 
 Participants who meet engagement and contribution thresholds will receive **monthly rewards** based on their role, activity level, and impact. The program also provides opportunities to:

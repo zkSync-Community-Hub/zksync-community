@@ -32,9 +32,9 @@ The program manager **verifies that contributions meet program criteria** and al
 
 Any discrepancies or missing information are flagged for review.
 
-### 4️⃣ Rewards Distribution
+### 4️⃣ KYC Process and Rewards Distribution
 
-After the review is complete, **rewards are distributed** monthly.
+After the review is complete, all participants eligible to receive a reward will be required to complete a KYC verification process. Once verified, rewards will be distributed. This process takes place on a monthly basis.
 
 ***
 

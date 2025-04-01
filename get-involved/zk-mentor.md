@@ -45,7 +45,9 @@ The ZKmentors program is a group of passionate individuals who embody expertise,
 ZKmentor [<mark style="color:purple;">**Matey**</mark>](zk-mentor.md#matey) → ZKmentor [<mark style="color:purple;">**Captain**</mark>](zk-mentor.md#captain)
 {% endhint %}
 
-### **Matey** <a href="#matey" id="matey"></a>
+<details>
+
+<summary>Matey</summary>
 
 Individuals who have actively contributed for several months and demonstrated proficiency in community skills.
 
@@ -66,7 +68,11 @@ Individuals who have actively contributed for several months and demonstrated pr
 * Access to exclusive community and ecosystem events and the opportunities.
 * Can participate to the ZKsync Community Program
 
-### **Captain**
+</details>
+
+<details>
+
+<summary>Captain</summary>
 
 Long term contributors showcasing leadership within the ZKsync ecosystem.&#x20;
 
@@ -88,6 +94,8 @@ Long term contributors showcasing leadership within the ZKsync ecosystem.&#x20;
 * A clear pathway to higher leadership roles on the broader ecosystem.&#x20;
 * Can participate to the ZKsync Community Program
 
+</details>
+
 ***
 
 ### ZKmentor Code of Conduct
@@ -108,7 +116,7 @@ The Code of Conduct serves as the guide for engaging as a ZKmentor, and it appli
 
 ***
 
-### **ZK Credo**&#x20;
+## **ZK Credo**&#x20;
 
 ZKmentors uphold the values and vision encapsulated in the ZK Credo. This Credo reflects our belief in decentralization, innovation, and a community-driven ecosystem. ZKmentors are not just role models in the ZKsync Discord, but they also help guide and support the entire community across all platforms and initiatives. By embracing the ZK Credo, ZKmentors embody a commitment to collaboration, education, and the growth of the ZKsync ecosystem.
 

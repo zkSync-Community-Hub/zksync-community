@@ -11,17 +11,16 @@
 
 * [ZKsync Twitter](https://twitter.com/zksync)
 * [ZKsync Developers Twitter](https://twitter.com/zkSyncDevs)
-* [Matter Labs Twitter](https://twitter.com/the\_matter\_labs)
 * [ZKsync Announcements Telegram](https://t.me/zksync)
-* [Matter Labs' Blog](https://blog.matter-labs.io/)
-* [Mirror](https://zksync.mirror.xyz/)
-* [YouTube](https://youtube.com/@zkSync-era)
-* [Discord](https://join.zksync.dev/)
-* [Guild](https://guild.xyz/zksync-era)
-* [Discord Ban Appeal form](https://appeals.wickbot.com/)
+
+- [Mirror](https://zksync.mirror.xyz/)
+- [YouTube](https://youtube.com/@zkSync-era)
+- [Discord](https://join.zksync.dev/)
+- [Guild](https://guild.xyz/zksync-era)
+- [Discord Ban Appeal form](https://appeals.wickbot.com/)
   * Server ID: 722409280497516566 ([Instructions](discord-best-practices.md))
-* [Reddit](https://www.reddit.com/r/zkSync/)
-* [Farcaster](https://warpcast.com/\~/channel/zksync)
+- [Reddit](https://www.reddit.com/r/zkSync/)
+- [Farcaster](https://warpcast.com/~/channel/zksync)
 
 </details>
 

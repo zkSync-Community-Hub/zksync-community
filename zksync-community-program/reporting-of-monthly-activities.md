@@ -10,7 +10,9 @@ Each month, contributors must self-report their activities, which are then revie
 
 To qualify for rewards, **participants must meet the minimum engagement thresholds** assigned to their respective roles. The assessment process consists of the following steps:
 
-### 1️⃣ Self-Reporting Form Submission
+<details>
+
+<summary>Self-Reporting Form Submission</summary>
 
 • At the end of each month, participants submit a **structured self-assessment** form documenting their contributions through a dedicated form.
 
@@ -18,17 +20,27 @@ To qualify for rewards, **participants must meet the minimum engagement threshol
 
 • Participants must provide verifiable proof of their activities (e.g., links, recaps).
 
-### 2️⃣ Review & Verification
+</details>
+
+<details>
+
+<summary>Review &#x26; Verification</summary>
 
 • Gitcoin, in collaboration with Community Moderators, will **review self-reported contributions and compare them against community platform analytics** (engagement metrics, activity logs, impact, sentiment, event participation records).
 
 • Any discrepancies or incomplete submissions may result in **disqualification** for that month.
 
-### 3️⃣ Final Review & Reward Allocation
+</details>
+
+<details>
+
+<summary>Final Review &#x26; Reward Allocation</summary>
 
 • Once contributions are verified, eligible participants receive their full monthly reward according to their role.
 
 • If a participant **fails to meet the minimum engagement criteria**, they will not receive rewards for that month and may be flagged for removal if inactivity persists.
+
+</details>
 
 ***
 
@@ -42,15 +54,13 @@ To prevent abuse and ensure the integrity of the program, self-reported data wil
 
 ✔ **Verification of provided proof** (e.g., links to hosted discussions, engagement stats, campaign interactions).
 
-
-
 ⚠ **Failure to provide accurate or verifiable information may lead to disqualification for that month’s rewards. Repeated violations may result in removal from the program.**
 
 ***
 
 ## What Happens After the Assessment?
 
-📢 Participants who meet engagement thresholds receive their **full monthly reward** for their role.
+📢 Participants who meet the monthly engagement thresholds for their role will be eligible to receive the full reward. To claim it, they must successfully complete the KYC verification process before distribution.
 
 ⚠ Participants who fail to meet engagement criteria will not receive rewards and may be removed after continued inactivity.
 

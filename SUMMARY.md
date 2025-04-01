@@ -19,8 +19,8 @@
 
 * [Introduction](zksync-community-program/introduction.md)
 * [How It Works](zksync-community-program/how-it-works.md)
-* [How to Get Involved](zksync-community-program/how-to-get-involved.md)
 * [Code of Conduct and Compliance](zksync-community-program/code-of-conduct-and-compliance.md)
+* [How to Get Involved](zksync-community-program/how-to-get-involved.md)
 * [Eligibility and Onboarding](zksync-community-program/eligibility-and-onboarding.md)
 * [Roles and Responsibilities](zksync-community-program/roles-and-responsibilities.md)
 * [Language Channels and Moderators](zksync-community-program/language-channels-and-moderators.md)

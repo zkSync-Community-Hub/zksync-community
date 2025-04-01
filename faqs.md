@@ -6,29 +6,41 @@ Below are answers to some of the most common questions about the ZKsync Communit
 
 ## General Program Questions
 
-### 1️⃣ Who can apply and how do I join?
+<details>
+
+<summary>Who can apply and how do I join?</summary>
 
 The program is open to **active community members** who contribute to the ZKsync ecosystem.
 
 • Current Community Moderators, Captains, and Mateys will be onboarded first.
 
-• New participants can apply through an open submission form (to be released after launch).
+• New participants can apply through the submission form..
 
 • All applicants must meet eligibility requirements and complete the onboarding process, including KYC verification.
 
+• [Submission Form](https://gitcoin.notion.site/1adf3309710d8024bbf3e1ec06762a83).
+
 📌 More details: [Eligibility & Onboarding Process](zksync-community-program/eligibility-and-onboarding.md)
 
-### 2️⃣ How long will the program last?
+</details>
 
-The ZKsync Community Program is a **six-month initiative** designed to reward meaningful contributions and strengthen the community’s role in ecosystem growth and governance.
+<details>
+
+<summary>How long will the program last?</summary>
+
+The ZKsync Community Program is a **six-month initiative** (started in March 2025) designed to reward meaningful contributions and strengthen the community’s role in ecosystem growth and governance.
 
 📌 More details: [How the Program Works](zksync-community-program/how-it-works.md)
+
+</details>
 
 ***
 
 ## Participation & Contributions
 
-### 3️⃣ How are contributions assessed?
+<details>
+
+<summary>How are contributions assessed?</summary>
 
 Contributions are **assessed monthly through a structured self-reporting process**:
 
@@ -40,7 +52,11 @@ Contributions are **assessed monthly through a structured self-reporting process
 
 📌 More details: [Monthly Activity Assessment & Verification](zksync-community-program/reporting-of-monthly-activities.md)
 
-### 4️⃣ What happens if I miss activity requirements for a month?
+</details>
+
+<details>
+
+<summary>What happens if I miss activity requirements for a month?</summary>
 
 • If a participant does not meet the minimum engagement threshold, they will not receive rewards for that month.
 
@@ -48,7 +64,11 @@ Contributions are **assessed monthly through a structured self-reporting process
 
 📌 More details: [Code of Conduct & Compliance](zksync-community-program/code-of-conduct-and-compliance.md), [Roles and Responsibilities](zksync-community-program/roles-and-responsibilities.md)
 
-### 5️⃣ Can I switch roles within the program?
+</details>
+
+<details>
+
+<summary>Can I switch roles within the program?</summary>
 
 • Yes, but role changes are not automatic.
 
@@ -58,11 +78,15 @@ Contributions are **assessed monthly through a structured self-reporting process
 
 📌 More details: [Eligibility and Onboarding](zksync-community-program/eligibility-and-onboarding.md)
 
+</details>
+
 ***
 
 ## Rewards & Compensation
 
-### 6️⃣ How much ZK Tokens can I earn each month?
+<details>
+
+<summary>How much ZK Tokens can I earn each month?</summary>
 
 Rewards are fixed per role:
 
@@ -74,15 +98,23 @@ Rewards are fixed per role:
 
 📌 More details: [Roles and Responsibilities](zksync-community-program/roles-and-responsibilities.md)
 
-### 7️⃣ Is the reward amount based on activity level?
+</details>
 
-No. As long as a participant meets the role’s contribution requirements, they receive the full fixed reward.
+<details>
+
+<summary>Is the reward amount based on activity level?</summary>
+
+As long as a participant meets the role’s contribution requirements, they receive the full fixed reward.
 
 • If more participants qualify than the monthly limit per role, selection will be based on consistency, engagement impact, and contribution quality.
 
 📌 More details: How the Program Ensures Fair Reward Distribution
 
-### 8️⃣ How will rewards be distributed?
+</details>
+
+<details>
+
+<summary>How will rewards be distributed?</summary>
 
 • Rewards are distributed monthly after the review process.
 
@@ -92,13 +124,17 @@ No. As long as a participant meets the role’s contribution requirements, they 
 
 📌 More details: [Reward Distribution](zksync-community-program/rewards-distribution.md)
 
+</details>
+
 ***
 
 ## Program Evolution
 
-### 9️⃣ How does this program interact with community governance and future initiatives?
+<details>
 
-• The ZKsync Community Program is designed to evolve over time with direct community input.
+<summary>How does this program interact with community governance and future initiatives?</summary>
+
+&#x20;The ZKsync Community Program is designed to evolve over time with direct community input.
 
 • Participants can join governance discussions, provide feedback through Squads, and contribute to surveys to shape the program’s next phase.
 
@@ -106,7 +142,11 @@ No. As long as a participant meets the role’s contribution requirements, they 
 
 📌 More details: [Program Evolution](zksync-community-program/program-evolution.md)
 
-### 🔟 How can I provide feedback or suggest improvements to the program?
+</details>
+
+<details>
+
+<summary>How can I provide feedback or suggest improvements to the program?</summary>
 
 • Join the Community Governance Squads to participate in structured discussions about program improvements.
 
@@ -116,11 +156,15 @@ No. As long as a participant meets the role’s contribution requirements, they 
 
 📌 More details: [Program Evolution](zksync-community-program/program-evolution.md)
 
+</details>
+
 ***
 
 ## Support & Contact
 
-📩 Where can I get help if I have questions or issues?
+<details>
+
+<summary>📩 Where can I get help if I have questions or issues?</summary>
 
 There are multiple ways to get support:
 
@@ -131,3 +175,5 @@ There are multiple ways to get support:
 🔹 Support Email – For technical issues, disputes, or process-related concerns.
 
 📌 More details: [Support](zksync-community-program/support.md)
+
+</details>

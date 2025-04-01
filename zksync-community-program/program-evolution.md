@@ -6,9 +6,9 @@ The **ZKsync Community Program** is not just about rewarding contributions, it i
 
 ## How the Community Will Contribute to the Program Evolution
 
-Participants will have **multiple opportunities to influence and improve the program**, ensuring that it evolves based on real experiences and community needs. Governance within the program is not just about receiving rewards; it’s about making meaningful contributions to how the ZKsync community operates.
+Participants will have **multiple opportunities to influence and improve the program**, ensuring that it evolves based on real experiences and community needs. It is not just about receiving rewards; it’s about making meaningful contributions to how the ZKsync community operates.
 
-The program’s governance evolution will focus on:
+The program’s evolution will focus on:
 
 ✔ **Refining Reward Mechanisms** – Ensuring fair distribution and alignment with contribution impact.
 

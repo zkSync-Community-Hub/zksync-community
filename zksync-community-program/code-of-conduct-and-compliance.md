@@ -8,7 +8,7 @@ By joining the program, **participants commit to upholding the highest standards
 
 ## The ZK Credo: Our Ethical Foundation
 
-At the core of the ZKsync ecosystem is the **ZK Credo, a guiding set of principles that defines our commitment to decentralization, transparency, and community empowerment**. Every participant in the Community Program is expected to uphold these values in their engagement and contributions:
+At the core of the ZKsync ecosystem is the [**ZK Credo**](https://github.com/zksync/credo)**, a guiding set of principles that defines our commitment to decentralization, transparency, and community empowerment**. Every participant in the Community Program is expected to uphold these values in their engagement and contributions:
 
 ### 🛠 Innovation for the Public Good
 
@@ -70,7 +70,9 @@ To maintain a fair, transparent, and impactful program, participants may be remo
 
 **Participants may face removal from the Community Program due to the following:**
 
-#### ❌ Unethical or Harmful Conduct
+<details>
+
+<summary>❌ Unethical or Harmful Conduct</summary>
 
 🚫 **Harassment, hate speech, or discrimination** of any kind.
 
@@ -78,7 +80,11 @@ To maintain a fair, transparent, and impactful program, participants may be remo
 
 🚫 **Spreading misinformation or intentionally misleading narratives** about ZKsync or the program.
 
-#### ❌ Inactivity or Insufficient Contributions
+</details>
+
+<details>
+
+<summary>❌ Inactivity or Insufficient Contributions</summary>
 
 🚫 **Failing to meet engagement and contribution requirements** for two consecutive months.
 
@@ -86,7 +92,11 @@ To maintain a fair, transparent, and impactful program, participants may be remo
 
 🚫 **Consistently low-effort contribution**s that do not align with program expectations.
 
-#### ❌ Abuse of the Program
+</details>
+
+<details>
+
+<summary>❌ Abuse of the Program</summary>
 
 🚫 **Fake contributions** (e.g., falsely reporting engagement for rewards).
 
@@ -94,13 +104,19 @@ To maintain a fair, transparent, and impactful program, participants may be remo
 
 🚫 Multiple accounts used to manipulate program incentives.
 
-#### ❌ Non-Compliance with ZKsync’s Program Governance & Guidelines
+</details>
+
+<details>
+
+<summary>❌ Non-Compliance with ZKsync’s Program Governance &#x26; Guidelines</summary>
 
 🚫 **Repeated failure** to follow the self-reporting process or program requirements.
 
 🚫 **Violation** of ZKsync’s community policies, governance rules, or moderation guidelines.
 
 🚫 **Ignoring warnings** from program managers, moderators, or Gitcoin.
+
+</details>
 
 ***
 
