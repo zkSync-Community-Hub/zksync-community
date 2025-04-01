@@ -30,8 +30,6 @@ Participants in the program must meet **specific eligibility criteria** based on
 
 • Failure to meet expectations for two consecutive months results in the revocation of the Matey role.
 
-• Every two months, the 10 lowest-performing Mateys will have their role revoked. They may reapply after a minimum two-month break.
-
 </details>
 
 <details>
