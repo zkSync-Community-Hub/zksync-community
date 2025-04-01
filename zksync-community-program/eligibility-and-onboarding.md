@@ -126,6 +126,8 @@ Once participants meet the eligibility criteria, they must complete the onboardi
 
 • Details on the specific KYC requirements and verification steps will be provided during onboarding.
 
+**For specific questions regarding KYC, please contact us at zksync@gitcoin.com**
+
 </details>
 
 <details>
@@ -136,13 +138,13 @@ Once participants meet the eligibility criteria, they must complete the onboardi
 
 • **KYC Completion**: At the end of each month, participants selected to receive rewards will be required to complete KYC verification. Those eligible will receive an email with instructions to begin the process.
 
+**For specific questions regarding KYC, please contact us at zksync@gitcoin.com**
+
 </details>
 
 <details>
 
 <summary>Next Steps After Onboarding</summary>
-
-###
 
 Once onboarded, participants can:
 

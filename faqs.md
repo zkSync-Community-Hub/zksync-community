@@ -120,7 +120,8 @@ As long as a participant meets the role’s contribution requirements, they rece
 
 • Participants must submit their activity reports before the deadline.
 
-• Gitcoin will process and distribute ZK Tokens after verification is complete.
+• Gitcoin will process and distribute ZK Tokens after verification and KYC are complete.\
+**For specific questions regarding KYC, please contact us at zksync@gitcoin.com**
 
 📌 More details: [Reward Distribution](zksync-community-program/rewards-distribution.md)
 
@@ -172,7 +173,7 @@ There are multiple ways to get support:
 
 🔹 Gitcoin Representatives – Handle onboarding, reward distribution, and program-related inquiries.
 
-🔹 Support Email – For technical issues, disputes, or process-related concerns.
+🔹 Support Email – For technical issues, disputes, or process-related concerns you can send an email to zksync@gitcoin.com
 
 📌 More details: [Support](zksync-community-program/support.md)
 

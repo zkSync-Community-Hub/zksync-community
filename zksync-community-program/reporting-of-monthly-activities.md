@@ -36,9 +36,11 @@ To qualify for rewards, **participants must meet the minimum engagement threshol
 
 <summary>Final Review &#x26; Reward Allocation</summary>
 
-• Once contributions are verified, eligible participants receive their full monthly reward according to their role.
+• Once contributions are verified, and KYC is completed, eligible participants receive their full monthly reward according to their role.
 
 • If a participant **fails to meet the minimum engagement criteria**, they will not receive rewards for that month and may be flagged for removal if inactivity persists.
+
+**For specific questions regarding KYC, please contact us at zksync@gitcoin.com**
 
 </details>
 
@@ -60,7 +62,8 @@ To prevent abuse and ensure the integrity of the program, self-reported data wil
 
 ## What Happens After the Assessment?
 
-📢 Participants who meet the monthly engagement thresholds for their role will be eligible to receive the full reward. To claim it, they must successfully complete the KYC verification process before distribution.
+📢 Participants who meet the monthly engagement thresholds for their role will be eligible to receive the full reward. To claim it, they must successfully complete the KYC verification process before distribution.\
+**For specific questions regarding KYC, please contact us at zksync@gitcoin.com**
 
 ⚠ Participants who fail to meet engagement criteria will not receive rewards and may be removed after continued inactivity.
 
