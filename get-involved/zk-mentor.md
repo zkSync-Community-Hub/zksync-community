@@ -3,6 +3,7 @@ description: >-
   🧙‍♂️ Ready to become a part of the ZKsync Core Community and help scale
   Ethereum? Then look no further! Below are the requirements and process for
   joining the ZKmentor Program!
+hidden: true
 ---
 
 # 😎 ZKmentors: Captains and Mateys

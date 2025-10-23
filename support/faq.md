@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ❓ FAQ
 
 ## What is ZKsync?
